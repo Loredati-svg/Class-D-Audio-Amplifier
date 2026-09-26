@@ -36,7 +36,8 @@ Designed to drive passive speakers with up to **2x50W RMS** output power into a 
 
 ## PCB 3d MODEL
 
-<img width="1140" height="543" alt="Screenshot 2026-09-26 181826" src="https://github.com/user-attachments/assets/0d7dcc67-263c-46b5-825c-448a3c0ccf58" />
+<img width="1099" height="571" alt="image" src="https://github.com/user-attachments/assets/929080be-ebd5-4fa9-b934-fa3b8aca4a13" />
+
 
 ## PCB layout 
 
