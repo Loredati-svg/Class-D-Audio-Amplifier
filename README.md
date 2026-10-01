@@ -1,4 +1,4 @@
-<img width="1187" height="656" alt="Screenshot from 2026-10-01 10-56-28" src="https://github.com/user-attachments/assets/339805bc-4627-4fb6-8d2b-b4dd3229b0c8" /># 🎵 Hi-Fi Class-D Bluetooth 5.0 Stereo Audio Amplifier (2x50W)
+Audio Amplifier (2x50W)
 
 ![Status](https://img.shields.io/badge/Status-In%20Progress-yellow)
 ![KiCad 9.0](https://img.shields.io/badge/KiCad-9.0-blue?logo=kicad&logoColor=white)
