@@ -1,4 +1,4 @@
-# 🎵 Hi-Fi Class-D Bluetooth 5.0 Stereo Audio Amplifier (2x50W)
+<img width="1187" height="656" alt="Screenshot from 2026-10-01 10-56-28" src="https://github.com/user-attachments/assets/339805bc-4627-4fb6-8d2b-b4dd3229b0c8" /># 🎵 Hi-Fi Class-D Bluetooth 5.0 Stereo Audio Amplifier (2x50W)
 
 ![Status](https://img.shields.io/badge/Status-In%20Progress-yellow)
 ![KiCad 9.0](https://img.shields.io/badge/KiCad-9.0-blue?logo=kicad&logoColor=white)
@@ -36,12 +36,12 @@ Designed to drive passive speakers with up to **2x50W RMS** output power into a 
 
 ## PCB 3d MODEL
 
-<img width="1099" height="571" alt="image" src="https://github.com/user-attachments/assets/929080be-ebd5-4fa9-b934-fa3b8aca4a13" />
+<img width="1172" height="625" alt="Screenshot from 2026-10-01 10-56-34" src="https://github.com/user-attachments/assets/5427f9a8-f3af-44f1-a800-207ee6009e6f" />
 
 
 ## PCB layout 
 
-<img width="1212" height="636" alt="image" src="https://github.com/user-attachments/assets/7790e573-366b-40e4-8dc6-3c1065f4e2e7" />
+<img width="1187" height="656" alt="Screenshot from 2026-10-01 10-56-28" src="https://github.com/user-attachments/assets/5cfdc74c-3777-488a-b468-b3652d15445b" />
 
 
 ## 📜 License
