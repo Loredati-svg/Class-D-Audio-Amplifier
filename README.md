@@ -1,4 +1,4 @@
-Audio Amplifier (2x50W)
+<h1 align="center">🔊 Class-D Bluetooth Audio Amplifier (2x50W)</h1>
 
 ![Status](https://img.shields.io/badge/Status-In%20Progress-yellow)
 ![KiCad 9.0](https://img.shields.io/badge/KiCad-9.0-blue?logo=kicad&logoColor=white)
