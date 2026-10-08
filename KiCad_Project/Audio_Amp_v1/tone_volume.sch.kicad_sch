@@ -3538,13 +3538,13 @@
 			)
 		)
 		(pin "1"
-			(uuid "1d805e6a-3b1c-45aa-a2d8-cbfd8b105301")
+			(uuid "1d805e6a-3b1c-45aa-a2d8-cbfd8b105302")
 		)
 		(pin "2"
-			(uuid "1aa62255-3c98-448f-a13d-8c6320a4ce26")
+			(uuid "1aa62255-3c98-448f-a13d-8c6320a4ce27")
 		)
 		(pin "3"
-			(uuid "90658246-fd0c-4616-8641-628ae7ed9d66")
+			(uuid "90658246-fd0c-4616-8641-628ae7ed9d67")
 		)
 		(pin "4"
 			(uuid "6f631bb1-ab06-412a-8abe-7581ae49f4b0")
@@ -4278,28 +4278,28 @@
 			)
 		)
 		(pin "4"
-			(uuid "14529ac2-1fc6-4223-ba58-9cf8f353a48a")
+			(uuid "14529ac2-1fc6-4223-ba58-9cf8f353a48b")
 		)
 		(pin "3"
-			(uuid "634a5fdf-8080-4c02-9250-6fac18e66749")
+			(uuid "634a5fdf-8080-4c02-9250-6fac18e6674a")
 		)
 		(pin "2"
-			(uuid "ef92d1e4-4b0b-4fe7-8152-ed6d250582ea")
+			(uuid "ef92d1e4-4b0b-4fe7-8152-ed6d250582eb")
 		)
 		(pin "5"
-			(uuid "fb1c833f-d031-4a00-988d-3482c441f1ed")
+			(uuid "fb1c833f-d031-4a00-988d-3482c441f1ee")
 		)
 		(pin "7"
-			(uuid "e0908047-7594-4c4c-8bea-f412422124e2")
+			(uuid "e0908047-7594-4c4c-8bea-f412422124e3")
 		)
 		(pin "1"
-			(uuid "21bfd917-2d2a-4dab-8e6b-fe2bbead28db")
+			(uuid "21bfd917-2d2a-4dab-8e6b-fe2bbead28dc")
 		)
 		(pin "6"
-			(uuid "b105c546-5bd4-42f4-aca7-8d2985f91cb8")
+			(uuid "b105c546-5bd4-42f4-aca7-8d2985f91cb9")
 		)
 		(pin "8"
-			(uuid "43be013a-1bb1-4142-8d56-ea2b49a98798")
+			(uuid "43be013a-1bb1-4142-8d56-ea2b49a98799")
 		)
 		(instances
 			(project "Audio_Amp_v1"
@@ -5076,22 +5076,22 @@
 			)
 		)
 		(pin "3"
-			(uuid "e7588dbb-9646-406f-bd59-334ecc7ab14f")
+			(uuid "e7588dbb-9646-406f-bd59-334ecc7ab150")
 		)
 		(pin "2"
-			(uuid "9a7eb3e4-5fb9-436a-b665-5b58498d5af4")
+			(uuid "9a7eb3e4-5fb9-436a-b665-5b58498d5af5")
 		)
 		(pin "6"
-			(uuid "2800df0b-3091-44c0-85ab-45f0e00677dd")
+			(uuid "2800df0b-3091-44c0-85ab-45f0e00677de")
 		)
 		(pin "1"
-			(uuid "79badf91-c342-4a4a-9e14-14ca47531fc7")
+			(uuid "79badf91-c342-4a4a-9e14-14ca47531fc8")
 		)
 		(pin "4"
-			(uuid "1ceeaa61-f309-4ffd-b851-1df415cd27f2")
+			(uuid "1ceeaa61-f309-4ffd-b851-1df415cd27f3")
 		)
 		(pin "5"
-			(uuid "093aaee5-1cca-46e3-a36c-d0f42eab1260")
+			(uuid "093aaee5-1cca-46e3-a36c-d0f42eab1261")
 		)
 		(instances
 			(project "Audio_Amp_v1"
@@ -5850,22 +5850,22 @@
 			)
 		)
 		(pin "3"
-			(uuid "bed394a8-723c-400f-8c51-ba4b54531738")
+			(uuid "bed394a8-723c-400f-8c51-ba4b54531739")
 		)
 		(pin "6"
-			(uuid "734634f9-33aa-4d0e-a49a-a700d63b0aab")
+			(uuid "734634f9-33aa-4d0e-a49a-a700d63b0aac")
 		)
 		(pin "2"
-			(uuid "35bb312d-d054-4827-a7ee-0a47e516f356")
+			(uuid "35bb312d-d054-4827-a7ee-0a47e516f357")
 		)
 		(pin "5"
-			(uuid "9b3895b4-6e1e-4a2f-95a1-f889b76cbec4")
+			(uuid "9b3895b4-6e1e-4a2f-95a1-f889b76cbec5")
 		)
 		(pin "1"
-			(uuid "fbcb3e9e-6f77-4ee4-8209-60e1629672a9")
+			(uuid "fbcb3e9e-6f77-4ee4-8209-60e1629672aa")
 		)
 		(pin "4"
-			(uuid "1bef26ee-a731-4bc3-acee-3a25ab067b8e")
+			(uuid "1bef26ee-a731-4bc3-acee-3a25ab067b8f")
 		)
 		(instances
 			(project "Audio_Amp_v1"

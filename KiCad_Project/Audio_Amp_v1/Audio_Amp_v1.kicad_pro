@@ -765,13 +765,13 @@
         "uuid": "d992164b-b1d0-4285-be2c-12a40c17e5cc"
       }
     ],
-    "used_designators": "C1-64,L1-5,#PWR1-55,IC1-2,IC4,J1-6,CIN1,#FLG1-4,R1-32,CHF1,TP3-4,U1-4,Y1,RV1-3,H1-4,Q1",
+    "used_designators": "C1-64,L1-5,#PWR1-56,IC1-2,IC4,J1-6,CIN1,#FLG1-4,R1-32,CHF1,TP3-4,U1-4,Y1,RV1-3,H1-4,Q1",
     "variants": []
   },
   "sheets": [
     [
       "d992164b-b1d0-4285-be2c-12a40c17e5cc",
-      "Audio_Amp_Jack_v1"
+      "Audio_Amp_v1"
     ],
     [
       "dc16a0fa-e905-4b8a-8eae-e4212738c9ed",
