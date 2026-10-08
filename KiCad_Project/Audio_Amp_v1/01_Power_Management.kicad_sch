@@ -1782,7 +1782,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "0.1u"
+		(property "Value" "100n"
 			(at 132.842 84.582 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1817,6 +1817,17 @@
 		)
 		(property "Description" "16V"
 			(at 134.62 82.55 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C1591"
+			(at 134.62 82.55 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1907,6 +1918,17 @@
 				)
 			)
 		)
+		(property "LCSC" "C296720"
+			(at 191.77 86.36 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "dddbd4ab-445f-4b00-8da8-ce03fb2949e1")
 		)
@@ -1978,6 +2000,17 @@
 			)
 		)
 		(property "Description" "16V"
+			(at 91.44 107.95 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C5199872"
 			(at 91.44 107.95 0)
 			(hide yes)
 			(show_name no)
@@ -2130,6 +2163,17 @@
 				(justify left top)
 			)
 		)
+		(property "LCSC" "C47327331"
+			(at 139.7 77.47 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "41b65928-36f4-4c64-aa93-291a9c85c61c")
 		)
@@ -2202,6 +2246,17 @@
 			)
 		)
 		(property "Description" "Resistor, US symbol"
+			(at 160.02 87.63 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C2907088"
 			(at 160.02 87.63 0)
 			(hide yes)
 			(show_name no)
@@ -2361,6 +2416,17 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 76.2 82.55 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C5378"
 			(at 76.2 82.55 0)
 			(hide yes)
 			(show_name no)
@@ -2531,6 +2597,17 @@
 				)
 			)
 		)
+		(property "LCSC" "C2907170"
+			(at 160.02 97.79 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "0c603388-19c3-40a1-bd0f-a3b52164ee93")
 		)
@@ -2690,6 +2767,17 @@
 				)
 			)
 		)
+		(property "LCSC" "C33546013"
+			(at 67.31 82.55 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "cd32e73a-8725-4399-88f1-29c19d361d34")
 		)
@@ -2762,6 +2850,17 @@
 			)
 		)
 		(property "Description" "test point"
+			(at 252.73 86.36 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" ""
 			(at 252.73 86.36 0)
 			(hide yes)
 			(show_name no)
@@ -2918,6 +3017,17 @@
 			)
 		)
 		(property "Description" "16V"
+			(at 184.15 86.36 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C296720"
 			(at 184.15 86.36 0)
 			(hide yes)
 			(show_name no)
@@ -3226,6 +3336,17 @@
 				(justify left top)
 			)
 		)
+		(property "LCSC" "C841384"
+			(at 95.25 76.2 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "5"
 			(uuid "c8e1755e-cdd0-44f3-a7f0-37c77eff7f91")
 		)
@@ -3484,6 +3605,17 @@
 				)
 			)
 		)
+		(property "LCSC" "C296720"
+			(at 176.53 86.36 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "a11d6e06-4732-412b-ac5c-25f587b0d608")
 		)
@@ -3555,6 +3687,17 @@
 			)
 		)
 		(property "Description" "16V"
+			(at 199.39 86.36 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C296720"
 			(at 199.39 86.36 0)
 			(hide yes)
 			(show_name no)
@@ -3637,6 +3780,17 @@
 			)
 		)
 		(property "Description" "test point"
+			(at 233.68 86.36 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" ""
 			(at 233.68 86.36 0)
 			(hide yes)
 			(show_name no)

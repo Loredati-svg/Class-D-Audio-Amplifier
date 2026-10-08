@@ -4758,6 +4758,17 @@
 				)
 			)
 		)
+		(property "LCSC" "C2907088"
+			(at 67.31 92.71 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "0b24680b-18ca-4a4b-aa8a-61bfb11e28e2")
 		)
@@ -4914,6 +4925,17 @@
 				)
 			)
 		)
+		(property "LCSC" "C100042"
+			(at 215.9 59.69 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "7099fa72-fb08-4948-874a-6bae280fdfd3")
 		)
@@ -4983,6 +5005,17 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 203.2 138.43 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C100040"
 			(at 203.2 138.43 0)
 			(hide yes)
 			(show_name no)
@@ -5072,6 +5105,17 @@
 				)
 			)
 		)
+		(property "LCSC" "C5199872"
+			(at 72.39 83.82 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "8e095bc6-b0c8-4d2d-8dd1-0a6f68a9d020")
 		)
@@ -5141,6 +5185,17 @@
 			)
 		)
 		(property "Description" "X7R - 50V"
+			(at 146.05 46.99 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C46653"
 			(at 146.05 46.99 0)
 			(hide yes)
 			(show_name no)
@@ -5310,6 +5365,17 @@
 				)
 			)
 		)
+		(property "LCSC" "C2907088"
+			(at 73.66 123.19 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "e2009d35-8ac8-43ae-99dd-ec9c122d232c")
 		)
@@ -5381,6 +5447,17 @@
 			)
 		)
 		(property "Description" "Resistor, US symbol"
+			(at 67.31 102.87 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C25586"
 			(at 67.31 102.87 0)
 			(hide yes)
 			(show_name no)
@@ -5470,6 +5547,17 @@
 				)
 			)
 		)
+		(property "LCSC" "C1591"
+			(at 96.52 52.07 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "9b3b19c7-7dd8-4e0a-8bee-48adca9f7685")
 		)
@@ -5539,6 +5627,17 @@
 			)
 		)
 		(property "Description" "X7R - 50V"
+			(at 144.78 143.51 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C46653"
 			(at 144.78 143.51 0)
 			(hide yes)
 			(show_name no)
@@ -5628,6 +5727,17 @@
 				)
 			)
 		)
+		(property "LCSC" "C100040"
+			(at 203.2 78.74 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "93cc4947-9ed2-4fa9-be1d-ee6d25c49f96")
 		)
@@ -5698,6 +5808,17 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 64.77 80.01 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C5199872"
+			(at 64.77 80.01 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5943,6 +6064,17 @@
 				)
 			)
 		)
+		(property "LCSC" ""
+			(at 181.61 149.86 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "1a021671-5392-4b21-81a2-cc4e565ca771")
 		)
@@ -6022,6 +6154,17 @@
 				)
 			)
 		)
+		(property "LCSC" "C5199872"
+			(at 60.96 97.79 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "c5ef455b-8b60-417a-9079-5ea1186dac26")
 		)
@@ -6091,6 +6234,17 @@
 			)
 		)
 		(property "Description" "X7R - 50V"
+			(at 154.94 143.51 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C49678"
 			(at 154.94 143.51 0)
 			(hide yes)
 			(show_name no)
@@ -6258,6 +6412,17 @@
 				)
 			)
 		)
+		(property "LCSC" "C5378"
+			(at 144.78 93.98 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "79ca46f1-60af-47ce-9911-441f4005da78")
 		)
@@ -6327,6 +6492,17 @@
 			)
 		)
 		(property "Description" "X7R - 50V"
+			(at 193.04 54.61 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C1881"
 			(at 193.04 54.61 0)
 			(hide yes)
 			(show_name no)
@@ -6416,6 +6592,17 @@
 				)
 			)
 		)
+		(property "LCSC" "C1881"
+			(at 193.04 114.3 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "1d4f2891-6159-4b0d-8f23-74f77fca819b")
 		)
@@ -6495,6 +6682,17 @@
 				)
 			)
 		)
+		(property "LCSC" "C5378"
+			(at 144.78 116.84 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "6d197017-58e8-4a83-988a-4898a7bdf5de")
 		)
@@ -6565,6 +6763,17 @@
 		)
 		(property "Description" "X7R - 50V"
 			(at 144.78 101.6 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C5378"
+			(at 144.78 101.6 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6655,6 +6864,17 @@
 				)
 			)
 		)
+		(property "LCSC" "C2907471"
+			(at 215.9 142.24 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "54079ec2-a09d-4151-a321-b783f44aac87")
 		)
@@ -6726,6 +6946,17 @@
 			)
 		)
 		(property "Description" "Condensatori elettrolitici in alluminio - SMD 50VDC 220uF 20% Anti-Vibe AEC-Q200"
+			(at 163.83 143.51 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C116211"
 			(at 163.83 143.51 0)
 			(hide yes)
 			(show_name no)
@@ -6893,6 +7124,17 @@
 				)
 			)
 		)
+		(property "LCSC" "C1881"
+			(at 193.04 138.43 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "08a81867-7f46-4ff9-8e24-ccf306988d41")
 		)
@@ -6963,6 +7205,17 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 71.12 111.76 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C5199872"
+			(at 71.12 111.76 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7131,6 +7384,17 @@
 				)
 			)
 		)
+		(property "LCSC" "C2907088"
+			(at 74.93 59.69 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "d8b2d8ab-59ad-492f-bf6a-7399e201007f")
 		)
@@ -7200,6 +7464,17 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 215.9 119.38 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C100042"
 			(at 215.9 119.38 0)
 			(hide yes)
 			(show_name no)
@@ -7290,6 +7565,17 @@
 				)
 			)
 		)
+		(property "LCSC" ""
+			(at 181.61 90.17 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "70a08504-f11a-4699-bc7d-7fde3223565d")
 		)
@@ -7361,6 +7647,17 @@
 			)
 		)
 		(property "Description" "Condensatori elettrolitici in alluminio - SMD 50VDC 220uF 20% Anti-Vibe AEC-Q200"
+			(at 165.1 46.99 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C116211"
 			(at 165.1 46.99 0)
 			(hide yes)
 			(show_name no)
@@ -7518,6 +7815,17 @@
 			)
 		)
 		(property "Description" "X7R - 50V"
+			(at 156.21 46.99 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C49678"
 			(at 156.21 46.99 0)
 			(hide yes)
 			(show_name no)
@@ -7687,6 +7995,17 @@
 				)
 			)
 		)
+		(property "LCSC" "C2907471"
+			(at 215.9 49.53 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "5b88846f-2e76-4a63-b93b-3ed2b19881f5")
 		)
@@ -7836,6 +8155,17 @@
 		)
 		(property "Description" "Resistor, US symbol"
 			(at 83.82 52.07 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C2907471"
+			(at 83.82 52.07 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8143,6 +8473,17 @@
 				(justify left top)
 			)
 		)
+		(property "LCSC" "C50144"
+			(at 95.25 92.71 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "9"
 			(uuid "76f7c1ab-faae-4599-8fa5-01568ac00b8b")
 		)
@@ -8392,6 +8733,17 @@
 				)
 			)
 		)
+		(property "LCSC" "C100042"
+			(at 66.04 48.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "425ce28d-dc11-471d-9e40-42a8d64710a5")
 		)
@@ -8471,6 +8823,17 @@
 				)
 			)
 		)
+		(property "LCSC" "C100042"
+			(at 215.9 72.39 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "940a7a3d-4468-4875-84d5-ef25dab21328")
 		)
@@ -8540,6 +8903,17 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 215.9 132.08 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C100042"
 			(at 215.9 132.08 0)
 			(hide yes)
 			(show_name no)
@@ -8630,6 +9004,17 @@
 				)
 			)
 		)
+		(property "LCSC" ""
+			(at 181.61 101.6 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "84f466fd-c868-4f3d-b41e-04d10b5b613b")
 		)
@@ -8699,6 +9084,17 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 203.2 54.61 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C100040"
 			(at 203.2 54.61 0)
 			(hide yes)
 			(show_name no)
@@ -8935,6 +9331,17 @@
 		)
 		(property "Description" "X7R - 50V"
 			(at 144.78 78.74 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C5378"
+			(at 144.78 78.74 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9181,6 +9588,17 @@
 				)
 			)
 		)
+		(property "LCSC" "C2907471"
+			(at 215.9 109.22 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "b6a818fa-f848-4f17-8f19-f26077abe4fc")
 		)
@@ -9260,6 +9678,17 @@
 				)
 			)
 		)
+		(property "LCSC" "C100040"
+			(at 203.2 114.3 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "c02e2c24-d786-411a-a2b3-a1109a09b1eb")
 		)
@@ -9329,6 +9758,17 @@
 			)
 		)
 		(property "Description" "X7R - 50V"
+			(at 193.04 78.74 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C1881"
 			(at 193.04 78.74 0)
 			(hide yes)
 			(show_name no)
@@ -9420,6 +9860,17 @@
 				)
 			)
 		)
+		(property "LCSC" "C2907471"
+			(at 215.9 82.55 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "13b7c9bb-384f-4fb1-9118-7e1e681804ba")
 		)
@@ -9491,6 +9942,17 @@
 		)
 		(property "Description" "Induttori di potenza - SMD WE-HCC High Pwr 8070 10uH 4.4A 40.5mOhm"
 			(at 181.61 41.91 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" ""
+			(at 181.61 41.91 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9648,6 +10110,17 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 63.5 115.57 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C5199872"
+			(at 63.5 115.57 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
