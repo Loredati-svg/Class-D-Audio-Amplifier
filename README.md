@@ -19,7 +19,6 @@ Designed to drive passive speakers with up to **2x50W RMS** output power into a 
 
 ## 📋 Table of Contents
 - [Technical Specifications](#-technical-specifications)
-- [Centralized Library Management](#-centralized-library-management)
 - [PCB Design and Layout (KiCad)](#-pcb-design-and-layout-kicad)
 - [License](#-license)
 
