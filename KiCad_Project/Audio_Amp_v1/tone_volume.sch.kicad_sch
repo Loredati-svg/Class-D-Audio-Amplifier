@@ -612,146 +612,6 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "Device:R"
-			(pin_numbers
-				(hide yes)
-			)
-			(pin_names
-				(offset 0)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(in_pos_files yes)
-			(duplicate_pin_numbers_are_jumpers no)
-			(property "Reference" "R"
-				(at 2.032 0 90)
-				(show_name no)
-				(do_not_autoplace no)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Value" "R"
-				(at 0 0 90)
-				(show_name no)
-				(do_not_autoplace no)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Footprint" ""
-				(at -1.778 0 90)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Datasheet" ""
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Description" "Resistor"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "ki_keywords" "R res resistor"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "ki_fp_filters" "R_*"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(symbol "R_0_1"
-				(rectangle
-					(start -1.016 -2.54)
-					(end 1.016 2.54)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-			)
-			(symbol "R_1_1"
-				(pin passive line
-					(at 0 3.81 270)
-					(length 1.27)
-					(name ""
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 0 -3.81 90)
-					(length 1.27)
-					(name ""
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
 		(symbol "Device:R_Potentiometer_Dual_Separate"
 			(pin_names
 				(offset 1.016)
@@ -1033,6 +893,195 @@
 						)
 					)
 					(number "6"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "Device:R_US"
+			(pin_numbers
+				(hide yes)
+			)
+			(pin_names
+				(offset 0)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" "R"
+				(at 2.54 0 90)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "R_US"
+				(at -2.54 0 90)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 1.016 -0.254 90)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Description" "Resistor, US symbol"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_keywords" "R res resistor"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_fp_filters" "R_*"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "R_US_0_1"
+				(polyline
+					(pts
+						(xy 0 2.286) (xy 0 2.54)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 2.286) (xy 1.016 1.905) (xy 0 1.524) (xy -1.016 1.143) (xy 0 0.762)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 0.762) (xy 1.016 0.381) (xy 0 0) (xy -1.016 -0.381) (xy 0 -0.762)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 -0.762) (xy 1.016 -1.143) (xy 0 -1.524) (xy -1.016 -1.905) (xy 0 -2.286)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 -2.286) (xy 0 -2.54)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "R_US_1_1"
+				(pin passive line
+					(at 0 3.81 270)
+					(length 1.27)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 -3.81 90)
+					(length 1.27)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -2447,8 +2496,9 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:C")
-		(at 133.35 110.49 180)
+		(lib_id "Device:C_Polarized_US")
+		(at 111.76 58.42 270)
+		(mirror x)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -2456,32 +2506,123 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "029fbfb5-64f6-40da-9d50-827e329645fa")
-		(property "Reference" "C60"
-			(at 137.16 109.2199 0)
+		(uuid "0449827e-699f-4ab0-be80-b1fbb724a80b")
+		(property "Reference" "C48"
+			(at 114.554 56.896 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
-		(property "Value" "100n"
-			(at 137.16 111.7599 0)
+		(property "Value" "10u"
+			(at 105.664 56.896 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
-		(property "Footprint" ""
-			(at 132.3848 106.68 0)
+		(property "Footprint" "Capacitor_SMD:CP_Elec_4x5.8"
+			(at 111.76 58.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "https://industrial.panasonic.com/cdbs/www-data/pdf/RDE0000/ABA0000C1181.pdf"
+			(at 111.76 58.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "25V"
+			(at 111.76 58.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C116211"
+			(at 111.76 58.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "4b014d39-6052-493d-957a-2db49df67994")
+		)
+		(pin "1"
+			(uuid "20b2a07e-cf5b-4d25-a28f-65654d768df8")
+		)
+		(instances
+			(project "Audio_Amp_v1"
+				(path "/d992164b-b1d0-4285-be2c-12a40c17e5cc/2e285d9a-33b1-4170-adee-88e96e8e00a2"
+					(reference "C48")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R_US")
+		(at 157.48 102.87 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "12bf17cc-9e28-446d-93da-2b04b0162bed")
+		(property "Reference" "R26"
+			(at 159.258 100.838 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "10k"
+			(at 159.258 104.902 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+			(at 157.734 101.854 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2492,7 +2633,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 133.35 110.49 0)
+			(at 157.48 102.87 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2502,8 +2643,8 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
-			(at 133.35 110.49 0)
+		(property "Description" "Resistor, US symbol"
+			(at 157.48 102.87 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2513,16 +2654,27 @@
 				)
 			)
 		)
-		(pin "1"
-			(uuid "c71f2cc6-1686-4f1b-92e5-a373bbd32cac")
+		(property "LCSC" "C25586"
+			(at 157.48 102.87 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
 		)
 		(pin "2"
-			(uuid "710a8ed4-338c-48b9-98fb-20269e5b0757")
+			(uuid "a7e2286b-32a2-4347-8b68-14b87c22844c")
+		)
+		(pin "1"
+			(uuid "b225bb0f-1cd3-4075-8a97-b1c6f2f79e02")
 		)
 		(instances
 			(project "Audio_Amp_v1"
 				(path "/d992164b-b1d0-4285-be2c-12a40c17e5cc/2e285d9a-33b1-4170-adee-88e96e8e00a2"
-					(reference "C60")
+					(reference "R26")
 					(unit 1)
 				)
 			)
@@ -2550,7 +2702,7 @@
 				)
 			)
 		)
-		(property "Value" "OPA1678"
+		(property "Value" "OPA1678IDR"
 			(at 168.91 53.34 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2560,7 +2712,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm"
 			(at 168.91 60.96 0)
 			(hide yes)
 			(show_name no)
@@ -2660,7 +2812,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 55.5752 66.04 0)
 			(hide yes)
 			(show_name no)
@@ -2682,7 +2834,7 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "25V"
 			(at 54.61 62.23 0)
 			(hide yes)
 			(show_name no)
@@ -2703,6 +2855,178 @@
 			(project "Audio_Amp_v1"
 				(path "/d992164b-b1d0-4285-be2c-12a40c17e5cc/2e285d9a-33b1-4170-adee-88e96e8e00a2"
 					(reference "C50")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C")
+		(at 129.54 82.55 270)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "1bb556f3-0e92-488d-9ccb-d8bf95b75d71")
+		(property "Reference" "C63"
+			(at 129.54 74.93 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "2n2"
+			(at 129.54 77.47 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+			(at 125.73 83.5152 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 129.54 82.55 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "C0G/NP0 50V"
+			(at 129.54 82.55 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "2be83bf8-781d-4f70-a2ff-f15fb7d9922f")
+		)
+		(pin "2"
+			(uuid "27c596c3-3133-4015-ab2e-0a588717184e")
+		)
+		(instances
+			(project "Audio_Amp_v1"
+				(path "/d992164b-b1d0-4285-be2c-12a40c17e5cc/2e285d9a-33b1-4170-adee-88e96e8e00a2"
+					(reference "C63")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R_US")
+		(at 143.51 128.27 180)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "24c6c73f-320d-40a8-8517-65733e83dbe0")
+		(property "Reference" "R27"
+			(at 141.986 127 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "10k"
+			(at 141.732 129.286 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+			(at 142.494 128.016 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 143.51 128.27 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor, US symbol"
+			(at 143.51 128.27 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C25586"
+			(at 143.51 128.27 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "067b33c1-71a4-4042-a231-66637d339427")
+		)
+		(pin "1"
+			(uuid "008027e5-00e4-46d2-92b5-01ac6a9624b8")
+		)
+		(instances
+			(project "Audio_Amp_v1"
+				(path "/d992164b-b1d0-4285-be2c-12a40c17e5cc/2e285d9a-33b1-4170-adee-88e96e8e00a2"
+					(reference "R27")
 					(unit 1)
 				)
 			)
@@ -2788,88 +3112,6 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 152.4 110.49 180)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "303dd7df-2597-410c-8374-3856e5623dbf")
-		(property "Reference" "C61"
-			(at 156.21 109.2199 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "100n"
-			(at 156.21 111.7599 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" ""
-			(at 151.4348 106.68 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 152.4 110.49 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Unpolarized capacitor"
-			(at 152.4 110.49 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "37e23e2e-7c58-4804-b4af-7a09320add9b")
-		)
-		(pin "2"
-			(uuid "6bd73181-5a25-4d53-aa36-2a7cc2b2075a")
-		)
-		(instances
-			(project "Audio_Amp_v1"
-				(path "/d992164b-b1d0-4285-be2c-12a40c17e5cc/2e285d9a-33b1-4170-adee-88e96e8e00a2"
-					(reference "C61")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C")
 		(at 67.31 62.23 0)
 		(unit 1)
 		(body_style 1)
@@ -2902,7 +3144,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 68.2752 66.04 0)
 			(hide yes)
 			(show_name no)
@@ -2924,7 +3166,7 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "25V"
 			(at 67.31 62.23 0)
 			(hide yes)
 			(show_name no)
@@ -2945,6 +3187,283 @@
 			(project "Audio_Amp_v1"
 				(path "/d992164b-b1d0-4285-be2c-12a40c17e5cc/2e285d9a-33b1-4170-adee-88e96e8e00a2"
 					(reference "C51")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R_US")
+		(at 128.27 102.87 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "36081a9e-ef8f-4d28-abdc-7430169cd89f")
+		(property "Reference" "R24"
+			(at 130.048 100.838 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "10k"
+			(at 130.048 104.902 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+			(at 128.524 101.854 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 128.27 102.87 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor, US symbol"
+			(at 128.27 102.87 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C25586"
+			(at 128.27 102.87 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "a3fe0173-9c5e-438e-9155-e4d109b49629")
+		)
+		(pin "1"
+			(uuid "3cf2f448-cafb-4d77-92ef-dd3fb6012656")
+		)
+		(instances
+			(project "Audio_Amp_v1"
+				(path "/d992164b-b1d0-4285-be2c-12a40c17e5cc/2e285d9a-33b1-4170-adee-88e96e8e00a2"
+					(reference "R24")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C_Polarized_US")
+		(at 111.76 130.81 270)
+		(mirror x)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "392aa75d-a51d-46ac-a503-16fedb8aa550")
+		(property "Reference" "C49"
+			(at 114.554 129.286 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "10u"
+			(at 105.664 129.286 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:CP_Elec_4x5.8"
+			(at 111.76 130.81 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "https://industrial.panasonic.com/cdbs/www-data/pdf/RDE0000/ABA0000C1181.pdf"
+			(at 111.76 130.81 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "25V"
+			(at 111.76 130.81 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C116211"
+			(at 111.76 130.81 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "1efba72f-70b4-4da4-ad81-2e3e0965ba43")
+		)
+		(pin "1"
+			(uuid "4dcbcdb5-9d24-40fc-af0f-9ae7e60c4154")
+		)
+		(instances
+			(project "Audio_Amp_v1"
+				(path "/d992164b-b1d0-4285-be2c-12a40c17e5cc/2e285d9a-33b1-4170-adee-88e96e8e00a2"
+					(reference "C49")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R_US")
+		(at 157.48 30.48 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "3dd0d556-1128-45aa-94ce-954e8da38bd2")
+		(property "Reference" "R22"
+			(at 159.258 28.448 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "10k"
+			(at 158.75 32.512 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+			(at 157.734 29.464 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 157.48 30.48 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor, US symbol"
+			(at 157.48 30.48 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C25586"
+			(at 157.48 30.48 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "5072c2be-9a6a-4716-b5b2-8327738a9ed6")
+		)
+		(pin "1"
+			(uuid "56289c09-18c3-4e6a-9068-26cb57e0a1f9")
+		)
+		(instances
+			(project "Audio_Amp_v1"
+				(path "/d992164b-b1d0-4285-be2c-12a40c17e5cc/2e285d9a-33b1-4170-adee-88e96e8e00a2"
+					(reference "R22")
 					(unit 1)
 				)
 			)
@@ -2982,7 +3501,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Potentiometer_THT:Potentiometer_Alps_RK09L_Double_Horizontal"
 			(at 143.51 30.48 0)
 			(hide yes)
 			(show_name no)
@@ -3015,52 +3534,8 @@
 				)
 			)
 		)
-		(property "Sim.Library" "${KICAD9_SYMBOL_DIR}/Simulation_SPICE.sp"
-			(at 143.51 30.48 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Name" "pot_dual"
-			(at 143.51 30.48 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Device" "SUBCKT"
-			(at 143.51 30.48 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Pins" "1=r1A 2=wA 3=r0A 4=r1B 5=wB 6=r0B"
-			(at 143.51 30.48 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Params" "Rtot=1 wpos=0.4"
-			(at 143.51 30.48 0)
+		(property "PARTNO" "RK09L1220A1"
+			(at 143.51 30.48 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3092,86 +3567,6 @@
 			(project "Audio_Amp_v1"
 				(path "/d992164b-b1d0-4285-be2c-12a40c17e5cc/2e285d9a-33b1-4170-adee-88e96e8e00a2"
 					(reference "RV1")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R")
-		(at 157.48 102.87 90)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "486b4c03-95a4-4120-9c09-3d78249572d2")
-		(property "Reference" "R29"
-			(at 157.48 96.52 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "10k"
-			(at 157.48 99.06 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 157.48 104.648 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 157.48 102.87 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Resistor"
-			(at 157.48 102.87 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "bddde779-b19a-474b-b8f5-c16e24278508")
-		)
-		(pin "1"
-			(uuid "2f4e0984-b4e1-47dc-a839-4a61bf479a7a")
-		)
-		(instances
-			(project "Audio_Amp_v1"
-				(path "/d992164b-b1d0-4285-be2c-12a40c17e5cc/2e285d9a-33b1-4170-adee-88e96e8e00a2"
-					(reference "R29")
 					(unit 1)
 				)
 			)
@@ -3256,8 +3651,8 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:C_Polarized_US")
-		(at 111.76 130.81 270)
+		(lib_id "Device:R_US")
+		(at 143.51 69.85 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -3265,30 +3660,31 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "4ce7962d-5ac9-4724-9153-2646076d1702")
-		(property "Reference" "C58"
-			(at 112.395 123.19 90)
+		(uuid "4badc50d-cdc3-41de-8a95-480be1019ae4")
+		(property "Reference" "R25"
+			(at 141.986 67.818 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 			)
 		)
-		(property "Value" "10u"
-			(at 112.395 125.73 90)
+		(property "Value" "3k3"
+			(at 141.732 70.104 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 			)
 		)
-		(property "Footprint" ""
-			(at 111.76 130.81 0)
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+			(at 142.494 69.596 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3299,7 +3695,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 111.76 130.81 0)
+			(at 143.51 69.85 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3309,8 +3705,8 @@
 				)
 			)
 		)
-		(property "Description" "Polarized capacitor, US symbol"
-			(at 111.76 130.81 0)
+		(property "Description" "Resistor, US symbol"
+			(at 143.51 69.85 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3320,24 +3716,35 @@
 				)
 			)
 		)
-		(pin "1"
-			(uuid "a6a0c8e3-dc1e-44c5-951a-2c9aca3d2948")
+		(property "LCSC" "C25586"
+			(at 143.51 69.85 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
 		)
 		(pin "2"
-			(uuid "29343913-37db-4092-b752-b8b64081997a")
+			(uuid "6aefd990-1246-424e-b9ec-d8f822751fda")
+		)
+		(pin "1"
+			(uuid "1e71954c-76af-428c-99c2-796c4b4d4cf1")
 		)
 		(instances
 			(project "Audio_Amp_v1"
 				(path "/d992164b-b1d0-4285-be2c-12a40c17e5cc/2e285d9a-33b1-4170-adee-88e96e8e00a2"
-					(reference "C58")
+					(reference "R25")
 					(unit 1)
 				)
 			)
 		)
 	)
 	(symbol
-		(lib_id "Device:R")
-		(at 57.15 114.3 0)
+		(lib_id "Device:C")
+		(at 152.4 38.1 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -3346,31 +3753,31 @@
 		(in_pos_files yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "564bcd25-5c68-45ed-8340-9d08c929bbf1")
-		(property "Reference" "R15"
-			(at 59.69 113.0299 0)
+		(uuid "4f6e3ab4-7881-42b9-99d0-05112981cd2b")
+		(property "Reference" "C53"
+			(at 156.21 36.8299 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 			)
 		)
-		(property "Value" "100k"
-			(at 59.69 115.5699 0)
+		(property "Value" "100n"
+			(at 156.21 39.3699 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 			)
 		)
-		(property "Footprint" ""
-			(at 55.372 114.3 90)
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
+			(at 151.4348 34.29 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3381,7 +3788,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 57.15 114.3 0)
+			(at 152.4 38.1 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3391,8 +3798,8 @@
 				)
 			)
 		)
-		(property "Description" "Resistor"
-			(at 57.15 114.3 0)
+		(property "Description" "C0G/NP0 50V"
+			(at 152.4 38.1 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3401,17 +3808,17 @@
 					(size 1.27 1.27)
 				)
 			)
-		)
-		(pin "2"
-			(uuid "f65c23a8-fe34-4c74-b357-1cfc37b46b60")
 		)
 		(pin "1"
-			(uuid "823648f5-62c8-4e2e-814a-9c85fa8579de")
+			(uuid "3d289759-7472-41a6-a869-bc09527a0af1")
+		)
+		(pin "2"
+			(uuid "753f5767-9afc-409c-90b4-28b43c7b3130")
 		)
 		(instances
 			(project "Audio_Amp_v1"
 				(path "/d992164b-b1d0-4285-be2c-12a40c17e5cc/2e285d9a-33b1-4170-adee-88e96e8e00a2"
-					(reference "R15")
+					(reference "C53")
 					(unit 1)
 				)
 			)
@@ -3449,7 +3856,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Potentiometer_THT:Potentiometer_Alps_RK09L_Double_Horizontal"
 			(at 143.51 102.87 0)
 			(hide yes)
 			(show_name no)
@@ -3482,52 +3889,8 @@
 				)
 			)
 		)
-		(property "Sim.Library" "${KICAD9_SYMBOL_DIR}/Simulation_SPICE.sp"
-			(at 143.51 102.87 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Name" "pot_dual"
-			(at 143.51 102.87 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Device" "SUBCKT"
-			(at 143.51 102.87 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Pins" "1=r1A 2=wA 3=r0A 4=r1B 5=wB 6=r0B"
-			(at 143.51 102.87 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Params" "Rtot=1 wpos=0.4"
-			(at 143.51 102.87 0)
+		(property "PARTNO" "RK09L1220A1"
+			(at 143.51 102.87 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3560,6 +3923,178 @@
 				(path "/d992164b-b1d0-4285-be2c-12a40c17e5cc/2e285d9a-33b1-4170-adee-88e96e8e00a2"
 					(reference "RV1")
 					(unit 2)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C")
+		(at 157.48 154.94 270)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "5ff8a58d-2f3d-4afb-8d48-39c6ab250036")
+		(property "Reference" "C62"
+			(at 157.48 147.32 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "2n2"
+			(at 157.48 149.86 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+			(at 153.67 155.9052 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 157.48 154.94 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "C0G/NP0 50V"
+			(at 157.48 154.94 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "22455fc6-6bf1-4c5e-b4e5-ace89c264434")
+		)
+		(pin "2"
+			(uuid "b58d7fd8-15c4-4e83-88ad-b4a4420767d8")
+		)
+		(instances
+			(project "Audio_Amp_v1"
+				(path "/d992164b-b1d0-4285-be2c-12a40c17e5cc/2e285d9a-33b1-4170-adee-88e96e8e00a2"
+					(reference "C62")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R_US")
+		(at 143.51 55.88 180)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "6002ddb3-f662-4d6c-998d-d88b1e5f1f51")
+		(property "Reference" "R23"
+			(at 141.732 54.61 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "10k"
+			(at 141.986 56.642 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+			(at 142.494 55.626 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 143.51 55.88 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor, US symbol"
+			(at 143.51 55.88 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C25586"
+			(at 143.51 55.88 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "2d55cbeb-d515-4492-842a-100fe03892fa")
+		)
+		(pin "1"
+			(uuid "7578a6bb-2b9f-41b4-89df-7888b86c74c4")
+		)
+		(instances
+			(project "Audio_Amp_v1"
+				(path "/d992164b-b1d0-4285-be2c-12a40c17e5cc/2e285d9a-33b1-4170-adee-88e96e8e00a2"
+					(reference "R23")
+					(unit 1)
 				)
 			)
 		)
@@ -3676,7 +4211,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
 			(at 132.3848 34.29 0)
 			(hide yes)
 			(show_name no)
@@ -3698,7 +4233,7 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "C0G/NP0 50V"
 			(at 133.35 38.1 0)
 			(hide yes)
 			(show_name no)
@@ -3725,8 +4260,8 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:C")
-		(at 157.48 154.94 270)
+		(lib_id "Device:R_US")
+		(at 128.27 30.48 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -3734,30 +4269,31 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "6d636211-b093-4d3a-b7fc-f109c9869cd1")
-		(property "Reference" "C62"
-			(at 157.48 147.32 90)
+		(uuid "78a4d452-3cd3-4b39-871b-508dc565abdb")
+		(property "Reference" "R13"
+			(at 130.048 28.448 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 			)
 		)
-		(property "Value" "2n2"
-			(at 157.48 149.86 90)
+		(property "Value" "10k"
+			(at 130.048 32.512 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 			)
 		)
-		(property "Footprint" ""
-			(at 153.67 155.9052 0)
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+			(at 128.524 29.464 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3768,7 +4304,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 157.48 154.94 0)
+			(at 128.27 30.48 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3778,8 +4314,8 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
-			(at 157.48 154.94 0)
+		(property "Description" "Resistor, US symbol"
+			(at 128.27 30.48 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3789,24 +4325,35 @@
 				)
 			)
 		)
-		(pin "1"
-			(uuid "69b6b364-c5a7-4dc8-8ec5-e6808b60762c")
+		(property "LCSC" "C25586"
+			(at 128.27 30.48 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
 		)
 		(pin "2"
-			(uuid "7d581d2e-887e-40ab-b4bd-b8db7a04aa2b")
+			(uuid "065d52ce-47a3-4969-874c-f277bb6e6478")
+		)
+		(pin "1"
+			(uuid "058e6149-62c1-48aa-9b74-dd0906d1b894")
 		)
 		(instances
 			(project "Audio_Amp_v1"
 				(path "/d992164b-b1d0-4285-be2c-12a40c17e5cc/2e285d9a-33b1-4170-adee-88e96e8e00a2"
-					(reference "C62")
+					(reference "R13")
 					(unit 1)
 				)
 			)
 		)
 	)
 	(symbol
-		(lib_id "Device:R")
-		(at 143.51 142.24 180)
+		(lib_id "Device:R_US")
+		(at 57.15 114.3 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -3814,32 +4361,31 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "79ed3eae-dc32-41ac-8e99-787f11b7791d")
-		(property "Reference" "R28"
-			(at 146.05 140.9699 0)
+		(uuid "8394ed72-8915-47b1-8bab-c4a8a5278bac")
+		(property "Reference" "R29"
+			(at 55.626 113.03 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
-		(property "Value" "3k3"
-			(at 146.05 143.5099 0)
+		(property "Value" "100k"
+			(at 55.372 115.316 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
-		(property "Footprint" ""
-			(at 145.288 142.24 90)
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+			(at 56.134 114.046 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3850,7 +4396,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 143.51 142.24 0)
+			(at 57.15 114.3 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3860,8 +4406,19 @@
 				)
 			)
 		)
-		(property "Description" "Resistor"
-			(at 143.51 142.24 0)
+		(property "Description" "Resistor, US symbol"
+			(at 57.15 114.3 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C25586"
+			(at 57.15 114.3 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3872,15 +4429,15 @@
 			)
 		)
 		(pin "2"
-			(uuid "4003b5fe-ddf6-4458-9ac6-4e332f6ae8b0")
+			(uuid "c11c2af0-291f-4c65-92f5-0fc88055cb63")
 		)
 		(pin "1"
-			(uuid "aab8bd4b-28d1-42b1-9e24-717fe0af4dad")
+			(uuid "187a8fdc-75b4-4a1c-9578-a2d2ba19d6da")
 		)
 		(instances
 			(project "Audio_Amp_v1"
 				(path "/d992164b-b1d0-4285-be2c-12a40c17e5cc/2e285d9a-33b1-4170-adee-88e96e8e00a2"
-					(reference "R28")
+					(reference "R29")
 					(unit 1)
 				)
 			)
@@ -3896,10 +4453,9 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "867d5187-fe97-4be3-b278-e7b9fe5d4297")
 		(property "Reference" "C42"
-			(at 48.26 130.8099 0)
+			(at 37.084 131.318 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3910,7 +4466,7 @@
 			)
 		)
 		(property "Value" "10u"
-			(at 48.26 133.3499 0)
+			(at 37.846 133.858 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3920,7 +4476,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 45.4152 135.89 0)
 			(hide yes)
 			(show_name no)
@@ -3942,7 +4498,7 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "25V"
 			(at 44.45 132.08 0)
 			(hide yes)
 			(show_name no)
@@ -3969,8 +4525,9 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:R")
-		(at 57.15 132.08 0)
+		(lib_id "Device:C_Polarized_US")
+		(at 198.12 60.96 90)
+		(mirror x)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -3978,10 +4535,9 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "86919604-5326-4fca-b7b3-c6442a01fcdd")
-		(property "Reference" "R18"
-			(at 59.69 130.8099 0)
+		(uuid "8d018f18-6ea4-48fc-94bd-b9b7255f3fa9")
+		(property "Reference" "C56"
+			(at 195.326 62.484 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3991,8 +4547,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100k"
-			(at 59.69 133.3499 0)
+		(property "Value" "10u"
+			(at 204.216 62.484 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4002,8 +4558,8 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
-			(at 55.372 132.08 90)
+		(property "Footprint" "Capacitor_SMD:CP_Elec_4x5.8"
+			(at 198.12 60.96 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4013,8 +4569,8 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
-			(at 57.15 132.08 0)
+		(property "Datasheet" "https://industrial.panasonic.com/cdbs/www-data/pdf/RDE0000/ABA0000C1181.pdf"
+			(at 198.12 60.96 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4024,8 +4580,19 @@
 				)
 			)
 		)
-		(property "Description" "Resistor"
-			(at 57.15 132.08 0)
+		(property "Description" "25V"
+			(at 198.12 60.96 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C116211"
+			(at 198.12 60.96 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4036,177 +4603,15 @@
 			)
 		)
 		(pin "2"
-			(uuid "b02cf04c-be7e-4d83-8db6-e135db7793d8")
+			(uuid "2dc475a6-65c0-41ac-914a-e6336bb76fd2")
 		)
 		(pin "1"
-			(uuid "a8c88d45-92c9-47f2-a283-8493ecb87d8b")
+			(uuid "93f4da3d-7e89-4d08-baf3-4a71f2088588")
 		)
 		(instances
 			(project "Audio_Amp_v1"
 				(path "/d992164b-b1d0-4285-be2c-12a40c17e5cc/2e285d9a-33b1-4170-adee-88e96e8e00a2"
-					(reference "R18")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C")
-		(at 152.4 38.1 180)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "91f42b51-7eeb-46f4-aa1c-a71b83ec271f")
-		(property "Reference" "C53"
-			(at 156.21 36.8299 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "100n"
-			(at 156.21 39.3699 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" ""
-			(at 151.4348 34.29 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 152.4 38.1 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Unpolarized capacitor"
-			(at 152.4 38.1 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "11ea11ba-0750-4975-8000-f09d479318a9")
-		)
-		(pin "2"
-			(uuid "1b423e27-488a-42d9-94ec-22c6a83c9d35")
-		)
-		(instances
-			(project "Audio_Amp_v1"
-				(path "/d992164b-b1d0-4285-be2c-12a40c17e5cc/2e285d9a-33b1-4170-adee-88e96e8e00a2"
-					(reference "C53")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C")
-		(at 129.54 82.55 270)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "9867afd2-4ee7-4ebc-a211-11ae12d013e4")
-		(property "Reference" "C55"
-			(at 129.54 74.93 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "2n2"
-			(at 129.54 77.47 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 125.73 83.5152 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 129.54 82.55 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Unpolarized capacitor"
-			(at 129.54 82.55 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "4d806594-6952-4b18-8c00-b573e0876a74")
-		)
-		(pin "2"
-			(uuid "3cdccec5-4e38-43e8-8ade-b5a70d9e00c3")
-		)
-		(instances
-			(project "Audio_Amp_v1"
-				(path "/d992164b-b1d0-4285-be2c-12a40c17e5cc/2e285d9a-33b1-4170-adee-88e96e8e00a2"
-					(reference "C55")
+					(reference "C56")
 					(unit 1)
 				)
 			)
@@ -4234,7 +4639,7 @@
 				)
 			)
 		)
-		(property "Value" "OPA1678"
+		(property "Value" "OPA1678IDR"
 			(at 168.91 125.73 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4244,7 +4649,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm"
 			(at 168.91 133.35 0)
 			(hide yes)
 			(show_name no)
@@ -4306,86 +4711,6 @@
 				(path "/d992164b-b1d0-4285-be2c-12a40c17e5cc/2e285d9a-33b1-4170-adee-88e96e8e00a2"
 					(reference "U3")
 					(unit 2)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R")
-		(at 128.27 102.87 90)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "9d06aefd-96e3-41cb-8112-2bc69b910883")
-		(property "Reference" "R24"
-			(at 128.27 96.52 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "10k"
-			(at 128.27 99.06 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 128.27 104.648 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 128.27 102.87 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Resistor"
-			(at 128.27 102.87 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "d000ea74-4b01-4461-8468-45c0ce3b81e7")
-		)
-		(pin "1"
-			(uuid "47366d56-b427-47e8-9441-f81e1c314f03")
-		)
-		(instances
-			(project "Audio_Amp_v1"
-				(path "/d992164b-b1d0-4285-be2c-12a40c17e5cc/2e285d9a-33b1-4170-adee-88e96e8e00a2"
-					(reference "R24")
-					(unit 1)
 				)
 			)
 		)
@@ -4469,88 +4794,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:R")
-		(at 143.51 69.85 180)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "9f39491d-6ad4-4f8b-a1df-dd9d995ba03c")
-		(property "Reference" "R26"
-			(at 146.05 68.5799 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "3k3"
-			(at 146.05 71.1199 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" ""
-			(at 145.288 69.85 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 143.51 69.85 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Resistor"
-			(at 143.51 69.85 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "c54b663d-e9b5-447c-92cc-1f5969c2c9db")
-		)
-		(pin "1"
-			(uuid "150ac3bc-a76c-471d-8320-446607ef5264")
-		)
-		(instances
-			(project "Audio_Amp_v1"
-				(path "/d992164b-b1d0-4285-be2c-12a40c17e5cc/2e285d9a-33b1-4170-adee-88e96e8e00a2"
-					(reference "R26")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:R_Potentiometer_Dual_Separate")
 		(at 143.51 154.94 270)
 		(mirror x)
@@ -4582,7 +4825,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Potentiometer_THT:Potentiometer_Alps_RK09L_Double_Horizontal"
 			(at 143.51 154.94 0)
 			(hide yes)
 			(show_name no)
@@ -4615,52 +4858,8 @@
 				)
 			)
 		)
-		(property "Sim.Library" "${KICAD9_SYMBOL_DIR}/Simulation_SPICE.sp"
-			(at 143.51 154.94 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Name" "pot_dual"
-			(at 143.51 154.94 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Device" "SUBCKT"
-			(at 143.51 154.94 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Pins" "1=r1A 2=wA 3=r0A 4=r1B 5=wB 6=r0B"
-			(at 143.51 154.94 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Params" "Rtot=1 wpos=0.4"
-			(at 143.51 154.94 0)
+		(property "PARTNO" "RK09L1220A1"
+			(at 143.51 154.94 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4698,86 +4897,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:R")
-		(at 157.48 30.48 90)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "b83a4906-c1b8-44fb-bffc-24671411f0b8")
-		(property "Reference" "R23"
-			(at 157.48 24.13 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "10k"
-			(at 157.48 26.67 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 157.48 32.258 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 157.48 30.48 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Resistor"
-			(at 157.48 30.48 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "81eb8ccf-0bb5-4f6a-a868-0c9914ce1912")
-		)
-		(pin "1"
-			(uuid "fcc49673-b952-4041-91fc-d6be349cf856")
-		)
-		(instances
-			(project "Audio_Amp_v1"
-				(path "/d992164b-b1d0-4285-be2c-12a40c17e5cc/2e285d9a-33b1-4170-adee-88e96e8e00a2"
-					(reference "R23")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Amplifier_Operational:OPA1678")
 		(at 43.18 60.96 0)
 		(unit 3)
@@ -4800,7 +4919,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "OPA1678"
+		(property "Value" "OPA1678IDR"
 			(at 41.91 62.2299 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4811,7 +4930,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm"
 			(at 43.18 60.96 0)
 			(hide yes)
 			(show_name no)
@@ -4987,7 +5106,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Potentiometer_THT:Potentiometer_Alps_RK09L_Double_Horizontal"
 			(at 143.51 82.55 0)
 			(hide yes)
 			(show_name no)
@@ -5020,52 +5139,8 @@
 				)
 			)
 		)
-		(property "Sim.Library" "${KICAD9_SYMBOL_DIR}/Simulation_SPICE.sp"
-			(at 143.51 82.55 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Name" "pot_dual"
-			(at 143.51 82.55 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Device" "SUBCKT"
-			(at 143.51 82.55 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Pins" "1=r1A 2=wA 3=r0A 4=r1B 5=wB 6=r0B"
-			(at 143.51 82.55 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Params" "Rtot=1 wpos=0.4"
-			(at 143.51 82.55 0)
+		(property "PARTNO" "RK09L1220A1"
+			(at 143.51 82.55 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5134,7 +5209,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Potentiometer_THT:Potentiometer_Alps_RK097_Dual_Horizontal"
 			(at 227.33 60.96 0)
 			(hide yes)
 			(show_name no)
@@ -5167,52 +5242,8 @@
 				)
 			)
 		)
-		(property "Sim.Library" "${KICAD9_SYMBOL_DIR}/Simulation_SPICE.sp"
-			(at 227.33 60.96 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Name" "pot_dual"
-			(at 227.33 60.96 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Device" "SUBCKT"
-			(at 227.33 60.96 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Pins" "1=r1A 2=wA 3=r0A 4=r1B 5=wB 6=r0B"
-			(at 227.33 60.96 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Params" "Rtot=1 wpos=0.4"
-			(at 227.33 60.96 0)
+		(property "PARTNO" "RKRK09712200HA"
+			(at 227.33 60.96 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5250,8 +5281,8 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:R")
-		(at 143.51 128.27 180)
+		(lib_id "Device:C")
+		(at 133.35 110.49 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -5260,9 +5291,9 @@
 		(in_pos_files yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "ce412ac7-5589-456c-a242-43174eedddcd")
-		(property "Reference" "R27"
-			(at 146.05 126.9999 0)
+		(uuid "ccbd3cec-c641-43df-acb2-98ef273d7593")
+		(property "Reference" "C54"
+			(at 137.16 109.2199 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5272,8 +5303,8 @@
 				(justify right)
 			)
 		)
-		(property "Value" "10k"
-			(at 146.05 129.5399 0)
+		(property "Value" "100n"
+			(at 137.16 111.7599 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5283,8 +5314,8 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
-			(at 145.288 128.27 90)
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
+			(at 132.3848 106.68 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5295,7 +5326,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 143.51 128.27 0)
+			(at 133.35 110.49 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5305,8 +5336,8 @@
 				)
 			)
 		)
-		(property "Description" "Resistor"
-			(at 143.51 128.27 0)
+		(property "Description" "C0G/NP0 50V"
+			(at 133.35 110.49 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5315,25 +5346,25 @@
 					(size 1.27 1.27)
 				)
 			)
-		)
-		(pin "2"
-			(uuid "8b822c97-0b50-460d-a484-01531d74362d")
 		)
 		(pin "1"
-			(uuid "3efd19b4-129f-4542-8334-9ca961db2645")
+			(uuid "b341ad8d-da6d-4820-96df-ec9618173383")
+		)
+		(pin "2"
+			(uuid "21773bc6-c8bc-4c52-bcd6-b18632d06458")
 		)
 		(instances
 			(project "Audio_Amp_v1"
 				(path "/d992164b-b1d0-4285-be2c-12a40c17e5cc/2e285d9a-33b1-4170-adee-88e96e8e00a2"
-					(reference "R27")
+					(reference "C54")
 					(unit 1)
 				)
 			)
 		)
 	)
 	(symbol
-		(lib_id "Device:R")
-		(at 143.51 55.88 180)
+		(lib_id "Device:R_US")
+		(at 143.51 142.24 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -5341,32 +5372,31 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "d15a3a5c-1882-4f92-b909-45a224057c7a")
-		(property "Reference" "R25"
-			(at 146.05 54.6099 0)
+		(uuid "ccc4f4a8-41cf-446e-87e3-a05889d3e5eb")
+		(property "Reference" "R28"
+			(at 141.732 140.462 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
-		(property "Value" "10k"
-			(at 146.05 57.1499 0)
+		(property "Value" "3k3"
+			(at 141.732 142.494 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
-		(property "Footprint" ""
-			(at 145.288 55.88 90)
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+			(at 142.494 141.986 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5377,7 +5407,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 143.51 55.88 0)
+			(at 143.51 142.24 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5387,8 +5417,19 @@
 				)
 			)
 		)
-		(property "Description" "Resistor"
-			(at 143.51 55.88 0)
+		(property "Description" "Resistor, US symbol"
+			(at 143.51 142.24 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C25586"
+			(at 143.51 142.24 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5399,15 +5440,15 @@
 			)
 		)
 		(pin "2"
-			(uuid "4553d7af-57a4-4a82-acae-5a2dcdb25c43")
+			(uuid "d81a889d-527d-4460-b716-b540588086f4")
 		)
 		(pin "1"
-			(uuid "722c491d-296a-4d16-b916-7517a3bd17d4")
+			(uuid "fdaa6aab-fbe8-4568-8a47-00a145ad996e")
 		)
 		(instances
 			(project "Audio_Amp_v1"
 				(path "/d992164b-b1d0-4285-be2c-12a40c17e5cc/2e285d9a-33b1-4170-adee-88e96e8e00a2"
-					(reference "R25")
+					(reference "R28")
 					(unit 1)
 				)
 			)
@@ -5445,7 +5486,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 125.73 155.9052 0)
 			(hide yes)
 			(show_name no)
@@ -5467,7 +5508,7 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "C0G/NP0 50V"
 			(at 129.54 154.94 0)
 			(hide yes)
 			(show_name no)
@@ -5488,6 +5529,98 @@
 			(project "Audio_Amp_v1"
 				(path "/d992164b-b1d0-4285-be2c-12a40c17e5cc/2e285d9a-33b1-4170-adee-88e96e8e00a2"
 					(reference "C59")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R_US")
+		(at 57.15 132.08 180)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "db933bf7-5f9a-4df5-b560-f3eab9361d6d")
+		(property "Reference" "R33"
+			(at 55.626 130.81 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "100k"
+			(at 55.372 133.096 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+			(at 56.134 131.826 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 57.15 132.08 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor, US symbol"
+			(at 57.15 132.08 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C25586"
+			(at 57.15 132.08 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "ec95b3b4-9dd0-4547-acbe-41cbd459be58")
+		)
+		(pin "1"
+			(uuid "a0f33779-9853-4afa-a427-9c332ed81434")
+		)
+		(instances
+			(project "Audio_Amp_v1"
+				(path "/d992164b-b1d0-4285-be2c-12a40c17e5cc/2e285d9a-33b1-4170-adee-88e96e8e00a2"
+					(reference "R33")
 					(unit 1)
 				)
 			)
@@ -5572,8 +5705,8 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:R")
-		(at 128.27 30.48 90)
+		(lib_id "Device:C")
+		(at 157.48 82.55 270)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -5582,9 +5715,9 @@
 		(in_pos_files yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "f0abc01c-ab82-46cc-98b7-2766cb3f52f7")
-		(property "Reference" "R22"
-			(at 128.27 24.13 90)
+		(uuid "e7a16539-5575-4d88-afd1-7314110dbd04")
+		(property "Reference" "C64"
+			(at 157.48 74.93 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5593,8 +5726,8 @@
 				)
 			)
 		)
-		(property "Value" "10k"
-			(at 128.27 26.67 90)
+		(property "Value" "2n2"
+			(at 157.48 77.47 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5603,8 +5736,8 @@
 				)
 			)
 		)
-		(property "Footprint" ""
-			(at 128.27 32.258 90)
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+			(at 153.67 83.5152 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5615,7 +5748,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 128.27 30.48 0)
+			(at 157.48 82.55 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5625,8 +5758,8 @@
 				)
 			)
 		)
-		(property "Description" "Resistor"
-			(at 128.27 30.48 0)
+		(property "Description" "C0G/NP0 50V"
+			(at 157.48 82.55 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5635,17 +5768,17 @@
 					(size 1.27 1.27)
 				)
 			)
-		)
-		(pin "2"
-			(uuid "a6d9583c-1f42-43e1-acab-ea65f10faffb")
 		)
 		(pin "1"
-			(uuid "9a6f2cad-ec01-4c65-9f14-15bea351d619")
+			(uuid "fbd5f98c-9848-48ee-8a05-e0cf70c03cb0")
+		)
+		(pin "2"
+			(uuid "41251f94-dd90-443d-8379-e50935400834")
 		)
 		(instances
 			(project "Audio_Amp_v1"
 				(path "/d992164b-b1d0-4285-be2c-12a40c17e5cc/2e285d9a-33b1-4170-adee-88e96e8e00a2"
-					(reference "R22")
+					(reference "C64")
 					(unit 1)
 				)
 			)
@@ -5761,7 +5894,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Potentiometer_THT:Potentiometer_Alps_RK097_Dual_Horizontal"
 			(at 227.33 133.35 0)
 			(hide yes)
 			(show_name no)
@@ -5794,52 +5927,8 @@
 				)
 			)
 		)
-		(property "Sim.Library" "${KICAD9_SYMBOL_DIR}/Simulation_SPICE.sp"
-			(at 227.33 133.35 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Name" "pot_dual"
-			(at 227.33 133.35 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Device" "SUBCKT"
-			(at 227.33 133.35 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Pins" "1=r1A 2=wA 3=r0A 4=r1B 5=wB 6=r0B"
-			(at 227.33 133.35 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Params" "Rtot=1 wpos=0.4"
-			(at 227.33 133.35 0)
+		(property "PARTNO" "RKRK09712200HA"
+			(at 227.33 133.35 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5877,8 +5966,8 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:C_Polarized_US")
-		(at 111.76 58.42 270)
+		(lib_id "Device:C")
+		(at 152.4 110.49 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -5887,29 +5976,31 @@
 		(in_pos_files yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "f427b350-959b-484c-8083-3517bd42c1cb")
-		(property "Reference" "C57"
-			(at 112.395 50.8 90)
+		(uuid "f5346838-e02c-431b-a5a9-66e26626b8cc")
+		(property "Reference" "C55"
+			(at 156.21 109.2199 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify right)
 			)
 		)
-		(property "Value" "10u"
-			(at 112.395 53.34 90)
+		(property "Value" "100n"
+			(at 156.21 111.7599 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify right)
 			)
 		)
-		(property "Footprint" ""
-			(at 111.76 58.42 0)
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
+			(at 151.4348 106.68 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5920,7 +6011,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 111.76 58.42 0)
+			(at 152.4 110.49 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5930,88 +6021,8 @@
 				)
 			)
 		)
-		(property "Description" "Polarized capacitor, US symbol"
-			(at 111.76 58.42 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "0cb2dbbb-ed18-4f3c-a740-06eb4d968fff")
-		)
-		(pin "2"
-			(uuid "99478bf4-a27b-48c7-a0ea-3dd58b579ab2")
-		)
-		(instances
-			(project "Audio_Amp_v1"
-				(path "/d992164b-b1d0-4285-be2c-12a40c17e5cc/2e285d9a-33b1-4170-adee-88e96e8e00a2"
-					(reference "C57")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C_Polarized_US")
-		(at 198.12 60.96 90)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "f6ca79a5-923d-49bf-9932-bf80012606fd")
-		(property "Reference" "C56"
-			(at 197.485 53.34 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "10u"
-			(at 197.485 55.88 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 198.12 60.96 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 198.12 60.96 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Polarized capacitor, US symbol"
-			(at 198.12 60.96 0)
+		(property "Description" "C0G/NP0 50V"
+			(at 152.4 110.49 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6022,15 +6033,15 @@
 			)
 		)
 		(pin "1"
-			(uuid "0c7cf1bf-c430-4cb7-a51b-1bd0255a6345")
+			(uuid "15b35f29-def4-4b8d-9244-871a5249c2a1")
 		)
 		(pin "2"
-			(uuid "9e1f90ab-bc72-4766-8b5d-7d791aee8385")
+			(uuid "cfdc11c3-16f0-4d75-8c8a-3d13c7de7f78")
 		)
 		(instances
 			(project "Audio_Amp_v1"
 				(path "/d992164b-b1d0-4285-be2c-12a40c17e5cc/2e285d9a-33b1-4170-adee-88e96e8e00a2"
-					(reference "C56")
+					(reference "C55")
 					(unit 1)
 				)
 			)
@@ -6039,6 +6050,7 @@
 	(symbol
 		(lib_id "Device:C_Polarized_US")
 		(at 198.12 133.35 90)
+		(mirror x)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -6046,29 +6058,30 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "fbf0a55c-1a77-4d5b-a9ba-fff503f58704")
-		(property "Reference" "C63"
-			(at 197.485 125.73 90)
+		(uuid "f7911a1e-e8f2-46b8-8e5f-c118e5553903")
+		(property "Reference" "C57"
+			(at 195.326 134.874 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 			)
 		)
 		(property "Value" "10u"
-			(at 197.485 128.27 90)
+			(at 204.216 134.874 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:CP_Elec_4x5.8"
 			(at 198.12 133.35 0)
 			(hide yes)
 			(show_name no)
@@ -6079,7 +6092,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://industrial.panasonic.com/cdbs/www-data/pdf/RDE0000/ABA0000C1181.pdf"
 			(at 198.12 133.35 0)
 			(hide yes)
 			(show_name no)
@@ -6090,7 +6103,7 @@
 				)
 			)
 		)
-		(property "Description" "Polarized capacitor, US symbol"
+		(property "Description" "25V"
 			(at 198.12 133.35 0)
 			(hide yes)
 			(show_name no)
@@ -6101,96 +6114,27 @@
 				)
 			)
 		)
-		(pin "1"
-			(uuid "6197a6d9-a0f5-4224-a589-94c8dbe4c50b")
+		(property "LCSC" "C116211"
+			(at 198.12 133.35 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
 		)
 		(pin "2"
-			(uuid "602d7ac7-ae64-4191-a762-7e83c24bd666")
+			(uuid "37059890-64ff-467a-9120-ec22d7ccee23")
+		)
+		(pin "1"
+			(uuid "f10c1b4d-6001-477d-ba0c-77fe41f81dfc")
 		)
 		(instances
 			(project "Audio_Amp_v1"
 				(path "/d992164b-b1d0-4285-be2c-12a40c17e5cc/2e285d9a-33b1-4170-adee-88e96e8e00a2"
-					(reference "C63")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C")
-		(at 157.48 82.55 270)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "ffe72e92-ee45-47f3-9361-cc034779cf73")
-		(property "Reference" "C54"
-			(at 157.48 74.93 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "2n2"
-			(at 157.48 77.47 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 153.67 83.5152 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 157.48 82.55 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Unpolarized capacitor"
-			(at 157.48 82.55 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "8bfd7cdc-da3e-4554-b768-f2c20e14df74")
-		)
-		(pin "2"
-			(uuid "99fd9b64-34d2-475e-b4b5-c55f95600ccd")
-		)
-		(instances
-			(project "Audio_Amp_v1"
-				(path "/d992164b-b1d0-4285-be2c-12a40c17e5cc/2e285d9a-33b1-4170-adee-88e96e8e00a2"
-					(reference "C54")
+					(reference "C57")
 					(unit 1)
 				)
 			)

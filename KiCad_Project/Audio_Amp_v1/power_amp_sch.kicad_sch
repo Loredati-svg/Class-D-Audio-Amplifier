@@ -7079,7 +7079,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "EEE-FK1H221GV:EEHZT1E561UV"
+		(property "Footprint" "Capacitor_SMD:CP_Elec_10x10.5"
 			(at 171.45 146.05 0)
 			(hide yes)
 			(show_name no)
@@ -7090,7 +7090,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "kicad-embed://ABA0000C1181.pdf"
+		(property "Datasheet" "https://industrial.panasonic.com/cdbs/www-data/pdf/RDE0000/RDE0000C1266.pdf"
 			(at 171.45 146.05 0)
 			(hide yes)
 			(show_name no)
@@ -7112,7 +7112,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C116211"
+		(property "LCSC" "EEE-FN1V471UL "
 			(at 171.45 146.05 0)
 			(hide yes)
 			(show_name no)
@@ -7690,7 +7690,7 @@
 				)
 			)
 		)
-		(property "Value" "10u"
+		(property "Value" "47u"
 			(at 29.21 86.36 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7700,7 +7700,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Capacitor_SMD:CP_Elec_6.3x5.9"
 			(at 30.7848 80.01 0)
 			(hide yes)
 			(show_name no)
@@ -7711,7 +7711,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://industrial.panasonic.com/cdbs/www-data/pdf/RDE0000/ABA0000C1181.pdf"
 			(at 31.75 83.82 0)
 			(hide yes)
 			(show_name no)
@@ -7733,7 +7733,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C5199872"
+		(property "LCSC" "EEE-FK1V470P"
 			(at 31.75 83.82 90)
 			(hide yes)
 			(show_name no)
@@ -9484,7 +9484,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "EEE-FK1H221GV:EEHZT1E561UV"
+		(property "Footprint" "Capacitor_SMD:CP_Elec_10x10.5"
 			(at 173.99 49.53 0)
 			(hide yes)
 			(show_name no)
@@ -9495,7 +9495,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "kicad-embed://ABA0000C1181.pdf"
+		(property "Datasheet" "https://industrial.panasonic.com/cdbs/www-data/pdf/RDE0000/RDE0000C1266.pdf"
 			(at 173.99 49.53 0)
 			(hide yes)
 			(show_name no)
@@ -9517,7 +9517,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C116211"
+		(property "LCSC" "EEE-FN1V471UL"
 			(at 173.99 49.53 0)
 			(hide yes)
 			(show_name no)

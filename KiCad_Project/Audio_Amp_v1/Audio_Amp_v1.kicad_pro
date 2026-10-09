@@ -273,7 +273,24 @@
     "equivalence_files": []
   },
   "erc": {
-    "erc_exclusions": [],
+    "erc_exclusions": [
+      [
+        "power_pin_not_driven|1714500|1181100|e95824fb-8e68-45c2-95cf-c336a52f3fbc|00000000-0000-0000-0000-000000000000|/d992164b-b1d0-4285-be2c-12a40c17e5cc/dc16a0fa-e905-4b8a-8eae-e4212738c9ed|/d992164b-b1d0-4285-be2c-12a40c17e5cc/dc16a0fa-e905-4b8a-8eae-e4212738c9ed|",
+        ""
+      ],
+      [
+        "power_pin_not_driven|1714500|952500|091eef7b-5890-4ca7-be16-54224e1a2305|00000000-0000-0000-0000-000000000000|/d992164b-b1d0-4285-be2c-12a40c17e5cc/dc16a0fa-e905-4b8a-8eae-e4212738c9ed|/d992164b-b1d0-4285-be2c-12a40c17e5cc/dc16a0fa-e905-4b8a-8eae-e4212738c9ed|",
+        ""
+      ],
+      [
+        "power_pin_not_driven|2070100|1028700|d8396754-35dc-461f-af05-1959a253a9ac|00000000-0000-0000-0000-000000000000|/d992164b-b1d0-4285-be2c-12a40c17e5cc/dc16a0fa-e905-4b8a-8eae-e4212738c9ed|/d992164b-b1d0-4285-be2c-12a40c17e5cc/dc16a0fa-e905-4b8a-8eae-e4212738c9ed|",
+        ""
+      ],
+      [
+        "power_pin_not_driven|2070100|1181100|92f7ac27-1e61-43d1-8560-bc09973b755c|00000000-0000-0000-0000-000000000000|/d992164b-b1d0-4285-be2c-12a40c17e5cc/dc16a0fa-e905-4b8a-8eae-e4212738c9ed|/d992164b-b1d0-4285-be2c-12a40c17e5cc/dc16a0fa-e905-4b8a-8eae-e4212738c9ed|",
+        ""
+      ]
+    ],
     "meta": {
       "version": 0
     },
@@ -556,6 +573,14 @@
       {
         "netclass": "USB_C",
         "pattern": "/USB_DAC/ESD_D+"
+      },
+      {
+        "netclass": "USB_C",
+        "pattern": "/USB_DAC/DAC_D-"
+      },
+      {
+        "netclass": "USB_C",
+        "pattern": "/USB_DAC/DAC_D+"
       }
     ]
   },
@@ -765,7 +790,7 @@
         "uuid": "d992164b-b1d0-4285-be2c-12a40c17e5cc"
       }
     ],
-    "used_designators": "C1-64,L1-5,#PWR1-56,IC1-2,IC4,J1-6,CIN1,#FLG1-4,R1-32,CHF1,TP3-4,U1-4,Y1,RV1-3,H1-4,Q1",
+    "used_designators": "C1-64,L1-5,#PWR1-58,IC1-2,IC4,J1-6,CIN1,#FLG1-5,R1-33,CHF1,TP3-4,U1-4,Y1,RV1-3,H1-4,Q1-2,XC1",
     "variants": []
   },
   "sheets": [
