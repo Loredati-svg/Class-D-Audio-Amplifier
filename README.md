@@ -49,6 +49,8 @@ Plug a phone or a PC into the USB-C port: the board shows up as a standard USB s
 | **PCB** | 2 layers, FR-4, 1.6 mm, 1 oz copper |
 
 ---
+<img width="1173" height="855" alt="Screenshot 2026-10-11 180441" src="https://github.com/user-attachments/assets/e03c92cc-a97f-4666-a31e-2b64e36fc762" />
+<img width="1156" height="781" alt="Screenshot 2026-10-11 180448" src="https://github.com/user-attachments/assets/280c0eca-4ef7-4ee4-a018-06fc1b4f300d" />
 
 ## 🔗 Signal Chain
 
