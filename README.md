@@ -1,8 +1,7 @@
 <h1 align="center">🔊 Class-D Stereo Audio Amplifier</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-In%20Progress-yellow" alt="Status">
-  <img src="https://img.shields.io/badge/KiCad-10.0-blue?logo=kicad&logoColor=white" alt="KiCad 10.0">
+  <img src="https://img.shields.io/badge/Status-Completed%20·%20Untested-yellowgreen" alt="Status">  <img src="https://img.shields.io/badge/KiCad-10.0-blue?logo=kicad&logoColor=white" alt="KiCad 10.0">
   <img src="https://img.shields.io/badge/Hardware%20Rev-v1.0-brightgreen" alt="Hardware Rev">
   <img src="https://img.shields.io/badge/License-CERN--OHL--P-orange" alt="License">
 </p>
