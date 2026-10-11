@@ -45,7 +45,7 @@ Plug a phone or a PC into the USB-C port: the board shows up as a standard USB s
 | **Speaker load** | 4–8 Ω passive speakers |
 | **Speaker outputs** | Phoenix Contact MKDS 1,5/2-5,08 screw terminals |
 | **Controls** | Bass, Treble, Volume (dual-gang potentiometers) |
-| **PCB** | 2 layers, FR-4, 1.6 mm, 1 oz copper |
+| **PCB** | 4 layers, FR-4, 1.6 mm, 1 oz copper |
 
 ---
 <img width="1173" height="855" alt="Screenshot 2026-10-11 180441" src="https://github.com/user-attachments/assets/e03c92cc-a97f-4666-a31e-2b64e36fc762" />
