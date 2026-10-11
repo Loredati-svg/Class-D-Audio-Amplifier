@@ -154,7 +154,7 @@ The board is designed to be manufactured by **JLCPCB** and assembled by hand (st
 
 | Option | Value |
 | :--- | :--- |
-| Layers | 2 |
+| Layers | 4 |
 | Thickness | 1.6 mm |
 | Copper | 1 oz |
 | Gerber export | Protel extensions, no X2 attributes |
