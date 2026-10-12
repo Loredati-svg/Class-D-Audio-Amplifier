@@ -17,7 +17,7 @@ Plug a phone or a PC into the USB-C port: the board shows up as a standard USB s
 <img width="500" alt="GND plane" src="https://github.com/user-attachments/assets/5dafc220-1827-4059-92cb-cdb87c7317af" />
 <img width="500" alt="Power plane" src="https://github.com/user-attachments/assets/f5fdc7ad-6d89-4f1c-9c0d-e0434609c8ce" />
 <img width="500" alt="Bottom layout" src="https://github.com/user-attachments/assets/9c971d96-c062-41fc-8f92-82c561f68460" />
-<img width="500" alt="Top layout" src="https://github.com/user-attachments/assets/ac0c82ae-e659-4b5f-96f8-44dc2892a9fc" />
+<img width="500" alt="Top layout" src="https://github.com/user-attachments/assets/cf61c4c8-2cab-4593-8f88-89879ae68a7e" />
 
 </p>
 
