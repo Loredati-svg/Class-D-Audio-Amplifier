@@ -185,9 +185,8 @@ The board is designed to be manufactured by **JLCPCB** and assembled by hand (st
 - [x] Baxandall tone control and volume
 - [x] TPA3116D2 power stage
 - [x] Anti-pop circuit
-- [ ] ERC and schematic review
-- [ ] Tone control AC simulation (ngspice)
-- [ ] PCB layout and DRC
+- [x] ERC and schematic review
+- [x] PCB layout and DRC
 - [ ] Fabrication, assembly and bring-up
 - [ ] Measurements (frequency response, THD+N, noise)
 - [ ] Enclosure and front panel
