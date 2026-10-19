@@ -11,16 +11,19 @@ An open-source stereo **Class-D** audio amplifier with a **USB-C digital input**
 Plug a phone or a PC into the USB-C port: the board shows up as a standard USB sound card (no drivers needed) and drives a pair of passive bookshelf speakers (4–8 Ω) from a single **24 V DC** supply.
 
 <p align="center">
-<img width="500"  alt="Top view" src="https://github.com/user-attachments/assets/e03c92cc-a97f-4666-a31e-2b64e36fc762" />
-<img width="500"  alt="Bottom view" src="https://github.com/user-attachments/assets/280c0eca-4ef7-4ee4-a018-06fc1b4f300d" />
-
-<img width="500" alt="GND plane" src="https://github.com/user-attachments/assets/5dafc220-1827-4059-92cb-cdb87c7317af" />
-<img width="500" alt="Power plane" src="https://github.com/user-attachments/assets/f5fdc7ad-6d89-4f1c-9c0d-e0434609c8ce" />
-<img width="500" alt="Bottom layout" src="https://github.com/user-attachments/assets/9c971d96-c062-41fc-8f92-82c561f68460" />
-<img width="500" alt="Top layout" src="https://github.com/user-attachments/assets/cf61c4c8-2cab-4593-8f88-89879ae68a7e" />
-
+  <img width="500" alt="Top view" src="Images/3D_Top.png" />
+  <img width="500" alt="Bottom view" src="Images/3D_Bot.png" />
 </p>
 
+<p align="center">
+  <img width="500" alt="GND plane" src="Images/GND_Plane.png" />
+  <img width="500" alt="Power plane" src="Images/POWER_Plane.png" />
+</p>
+
+<p align="center">
+  <img width="500" alt="Top layout" src="Images/Top_layout.png" />
+  <img width="500" alt="Bottom layout" src="Images/Bottom_layout.png" />
+</p>
 
 
 
