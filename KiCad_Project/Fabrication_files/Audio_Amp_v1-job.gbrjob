@@ -5,7 +5,7 @@
       "Application": "Pcbnew",
       "Version": "10.0.5"
     },
-    "CreationDate": "2026-10-11T18:02:20+02:00"
+    "CreationDate": "2026-10-19T12:21:02+02:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
@@ -14,11 +14,11 @@
       "Revision": "rev?"
     },
     "Size": {
-      "X": 102.05,
+      "X": 99.8,
       "Y": 64.05
     },
     "LayerNumber": 4,
-    "BoardThickness": 1.5842,
+    "BoardThickness": 1.561,
     "Finish": "None"
   },
   "DesignRules": [
@@ -118,31 +118,31 @@
     },
     {
       "Type": "Dielectric",
-      "Thickness": 0.0994,
+      "Thickness": 0.1855,
       "Material": "FR4",
       "Name": "F.Cu/GND",
       "Notes": "Type: dielectric layer 1 (from F.Cu to GND)"
     },
     {
       "Type": "Copper",
-      "Thickness": 0.0152,
+      "Thickness": 0.035,
       "Name": "GND"
     },
     {
       "Type": "Dielectric",
-      "Thickness": 1.265,
+      "Thickness": 1.03,
       "Material": "FR4",
       "Name": "GND/POWER",
       "Notes": "Type: dielectric layer 2 (from GND to POWER)"
     },
     {
       "Type": "Copper",
-      "Thickness": 0.0152,
+      "Thickness": 0.035,
       "Name": "POWER"
     },
     {
       "Type": "Dielectric",
-      "Thickness": 0.0994,
+      "Thickness": 0.1855,
       "Material": "FR4",
       "Name": "POWER/B.Cu",
       "Notes": "Type: dielectric layer 3 (from POWER to B.Cu)"
