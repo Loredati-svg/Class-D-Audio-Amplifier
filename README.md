@@ -15,20 +15,6 @@ Plug a phone or a PC into the USB-C port: the board shows up as a standard USB s
   <img width="500" alt="Bottom view" src="Images/3D_Bot.png" />
 </p>
 
-<p align="center">
-  <img width="500" alt="GND plane" src="Images/GND_Plane.png" />
-  <img width="500" alt="Power plane" src="Images/POWER_Plane.png" />
-</p>
-
-<p align="center">
-  <img width="500" alt="Top layout" src="Images/Top_layout.png" />
-  <img width="500" alt="Bottom layout" src="Images/Bottom_layout.png" />
-</p>
-
-
-
-
-
 
 ---
 
