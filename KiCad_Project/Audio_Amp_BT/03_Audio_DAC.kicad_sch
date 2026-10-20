@@ -5,7 +5,7 @@
 	(uuid "9f1c6b01-37fb-46d4-bf77-52791e41f868")
 	(paper "A4")
 	(lib_symbols
-		(symbol "ABM8-12_000MHZ-12-B1U-T:ABM8-12.000MHZ-12-B1U-T"
+		(symbol "eCrystal:ABM8-12.000MHZ-12-B1U-T"
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
@@ -33,7 +33,7 @@
 					(justify left top)
 				)
 			)
-			(property "Footprint" "ABM810000MHZ12D2W"
+			(property "Footprint" "eCrystal:ABM810000MHZ12D2W"
 				(at 26.67 -94.92 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -45,7 +45,7 @@
 					(justify left top)
 				)
 			)
-			(property "Datasheet" "https://abracon.com/Resonators/abm8.pdf"
+			(property "Datasheet" "${KIPRJMOD}/../KiCad_Libs/eCrystal/datasheet/abm8.pdf"
 				(at 26.67 -194.92 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -837,7 +837,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "PCM2704CDB:PCM2704CDB"
+		(symbol "eConverterADDA:PCM2704CDB"
 			(pin_names
 				(offset 1.016)
 			)
@@ -868,7 +868,7 @@
 					(justify left bottom)
 				)
 			)
-			(property "Footprint" "PCM2704CDB:SOP65P780X200-28N"
+			(property "Footprint" "eConverterADDA:SOP65P780X200-28N"
 				(at -1.016 -42.672 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -3779,7 +3779,7 @@
 		)
 	)
 	(symbol
-		(lib_id "PCM2704CDB:PCM2704CDB")
+		(lib_id "eConverterADDA:PCM2704CDB")
 		(at 134.62 97.79 0)
 		(unit 1)
 		(body_style 1)
@@ -3809,7 +3809,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM2704CDB:SOP65P780X200-28N"
+		(property "Footprint" "eConverterADDA:SOP65P780X200-28N"
 			(at 134.62 97.79 0)
 			(hide yes)
 			(show_name no)
@@ -3821,7 +3821,7 @@
 				(justify bottom)
 			)
 		)
-		(property "Datasheet" "kicad-embed://pcm2704c.pdf"
+		(property "Datasheet" "${KIPRJMOD}/../KiCad_Libs/eConverterADDA/datasheet/pcm2704c.pdf"
 			(at 134.62 97.79 0)
 			(hide yes)
 			(show_name no)
@@ -4408,7 +4408,7 @@
 		)
 	)
 	(symbol
-		(lib_id "ABM8-12_000MHZ-12-B1U-T:ABM8-12.000MHZ-12-B1U-T")
+		(lib_id "eCrystal:ABM8-12.000MHZ-12-B1U-T")
 		(at 116.84 50.8 0)
 		(unit 1)
 		(body_style 1)
@@ -4438,7 +4438,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ABM810000MHZ12D2W"
+		(property "Footprint" "eCrystal:ABM810000MHZ12D2W"
 			(at 143.51 145.72 0)
 			(hide yes)
 			(show_name no)
@@ -4450,7 +4450,7 @@
 				(justify left top)
 			)
 		)
-		(property "Datasheet" "https://abracon.com/Resonators/abm8.pdf"
+		(property "Datasheet" "${KIPRJMOD}/../KiCad_Libs/eCrystal/datasheet/abm8.pdf"
 			(at 143.51 245.72 0)
 			(hide yes)
 			(show_name no)

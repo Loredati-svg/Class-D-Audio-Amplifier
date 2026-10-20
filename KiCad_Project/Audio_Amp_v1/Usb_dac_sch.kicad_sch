@@ -2640,7 +2640,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "PCM2704CDB:PCM2704CDB"
+		(symbol "eConverterADDA:PCM2704CDB"
 			(pin_names
 				(offset 1.016)
 			)
@@ -2671,7 +2671,7 @@
 					(justify left bottom)
 				)
 			)
-			(property "Footprint" "PCM2704CDB:SOP65P780X200-28N"
+			(property "Footprint" "eConverterADDA:SOP65P780X200-28N"
 				(at -1.016 -42.672 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -15558,7 +15558,7 @@
 		)
 	)
 	(symbol
-		(lib_id "PCM2704CDB:PCM2704CDB")
+		(lib_id "eConverterADDA:PCM2704CDB")
 		(at 189.23 86.36 0)
 		(unit 1)
 		(body_style 1)
@@ -15589,7 +15589,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM2704CDB:SOP65P780X200-28N"
+		(property "Footprint" "eConverterADDA:SOP65P780X200-28N"
 			(at 188.214 129.032 0)
 			(hide yes)
 			(show_name no)

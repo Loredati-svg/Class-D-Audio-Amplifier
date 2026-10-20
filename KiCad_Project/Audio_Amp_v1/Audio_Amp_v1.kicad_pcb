@@ -1535,7 +1535,7 @@
 			(uuid "ded636c7-2db9-431d-9df8-51a17ede3a0d")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/lollo/Desktop/Hardware_Projects/Class-D-Bluetooth-5.0-Stereo-Audio-Amplifier/libs/Kicad_Library/Potentiometers/RK09712200HA.stp"
+		(model "${KIPRJMOD}/../KiCad_Libs/eResistor/eResistor.3dshapes/RK09712200HA.stp"
 			(offset
 				(xyz -4.5 -2.5 0.5)
 			)
@@ -2300,7 +2300,7 @@
 			)
 		)
 	)
-	(footprint "TPA3116D2DAD:SOP65P810X120-32N"
+	(footprint "eAmplifier:SOP65P810X120-32N"
 		(layer "F.Cu")
 		(uuid "1d97ac19-2893-40c5-92ac-f3ed813a3a95")
 		(at 123 108.25)
@@ -2329,7 +2329,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "kicad-embed://tpa3116d2.pdf"
+		(property "Datasheet" "${KIPRJMOD}/../KiCad_Libs/eAmplifier/datasheet/tpa3116d2.pdf"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -2922,7 +2922,7 @@
 			(uuid "d252227a-8b19-4dee-ad0b-27bf8a263ad4")
 		)
 		(embedded_fonts no)
-		(model "TPA3116D2DAD.stp"
+		(model "${KIPRJMOD}/../KiCad_Libs/eAmplifier/eAmplifier.3dshapes/TPA3116D2DAD.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -2934,7 +2934,7 @@
 			)
 		)
 	)
-	(footprint "7443341000:INDPM8479X720N"
+	(footprint "eCoil:INDPM8479X720N"
 		(layer "F.Cu")
 		(uuid "1ee06716-c590-4de5-bbfd-ae7b7367e8f4")
 		(at 142.5 113.5)
@@ -2963,7 +2963,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "kicad-embed://7443341000.pdf"
+		(property "Datasheet" "${KIPRJMOD}/../KiCad_Libs/eCoil/datasheet/7443341000.pdf"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -3166,7 +3166,7 @@
 			(uuid "7075b806-4ef1-4f89-93bf-450f962419ec")
 		)
 		(embedded_fonts no)
-		(model "7443341000.stp"
+		(model "${KIPRJMOD}/../KiCad_Libs/eCoil/eCoil.3dshapes/7443341000.stp"
 			(offset
 				(xyz 0 0 0.04999999999)
 			)
@@ -4247,7 +4247,7 @@
 			(uuid "00a74fe1-fd51-4456-86c6-f2c62d613f57")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/lollo/Desktop/Hardware_Projects/Class-D-Bluetooth-5.0-Stereo-Audio-Amplifier/libs/Kicad_Library/Fuse/Littelfuse_2920L260_33DR.step"
+		(model "${KIPRJMOD}/../KiCad_Libs/eFuse/eFuse.3dshapes/Littelfuse_2920L260_33DR.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -7243,7 +7243,7 @@
 			(uuid "23c423a8-8af1-46c6-b998-b8e3b3a06a0d")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/lollo/Desktop/Hardware_Projects/Class-D-Bluetooth-5.0-Stereo-Audio-Amplifier/libs/Kicad_Library/Potentiometers/RK09L1220A1B.stp"
+		(model "${KIPRJMOD}/../KiCad_Libs/eResistor/eResistor.3dshapes/RK09L1220A1B.stp"
 			(offset
 				(xyz -2.5 -2.5 7)
 			)
@@ -9693,7 +9693,7 @@
 			)
 		)
 	)
-	(footprint "7443341000:INDPM8479X720N"
+	(footprint "eCoil:INDPM8479X720N"
 		(layer "F.Cu")
 		(uuid "485e58be-2627-4a96-a94d-04b56ee97b2f")
 		(at 142.5 95.5)
@@ -9722,7 +9722,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "kicad-embed://7443341000.pdf"
+		(property "Datasheet" "${KIPRJMOD}/../KiCad_Libs/eCoil/datasheet/7443341000.pdf"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -9925,7 +9925,7 @@
 			(uuid "7ff352a9-0f6b-40ba-a4b4-21788a42a11e")
 		)
 		(embedded_fonts no)
-		(model "7443341000.stp"
+		(model "${KIPRJMOD}/../KiCad_Libs/eCoil/eCoil.3dshapes/7443341000.stp"
 			(offset
 				(xyz 0 0 0.04999999999)
 			)
@@ -12337,7 +12337,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(footprint "PCM2704CDB:SOP65P780X200-28N"
+	(footprint "eConverterADDA:SOP65P780X200-28N"
 		(layer "F.Cu")
 		(uuid "57a8c596-2cd1-4a71-a46a-024d107d4ab3")
 		(at 94.53741 92.18)
@@ -12870,7 +12870,7 @@
 			(uuid "d8bb55a4-115d-49c8-85db-636b280db408")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/lollo/Desktop/Hardware_Projects/Class-D-Bluetooth-5.0-Stereo-Audio-Amplifier/libs/Kicad_Library/DAC/PCM2704CDB/PCM2704CDB.STEP"
+		(model "${KIPRJMOD}/../KiCad_Libs/eConverterADDA/eConverterADDA.3dshapes/PCM2704CDB.STEP"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -21444,7 +21444,7 @@
 			)
 		)
 	)
-	(footprint "EEE-FK1H221GV:EEHZT1E561UV"
+	(footprint "eCapacitor:EEHZT1E561UV"
 		(layer "F.Cu")
 		(uuid "95d8e865-0728-4a50-90b3-826407646e57")
 		(at 130.5 91)
@@ -21473,7 +21473,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "kicad-embed://ABA0000C1181.pdf"
+		(property "Datasheet" "${KIPRJMOD}/../KiCad_Libs/eCapacitor/datasheet/ABA0000C1181.pdf"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -21830,7 +21830,7 @@
 			(uuid "9382a48b-4074-4367-b56e-4fb5e39fce51")
 		)
 		(embedded_fonts no)
-		(model "EEE-FK1H221GV.stp"
+		(model "${KIPRJMOD}/../KiCad_Libs/eCapacitor/eCapacitor.3dshapes/EEE-FK1H221GV.stp"
 			(offset
 				(xyz 0 0 0.999999985)
 			)
@@ -23556,7 +23556,7 @@
 			(uuid "36cef556-5320-48a3-bc28-afeb91977d48")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/lollo/Desktop/Hardware_Projects/Class-D-Bluetooth-5.0-Stereo-Audio-Amplifier/libs/Kicad_Library/Connectors/24V-JACK/PJ-102AH.stp"
+		(model "${KIPRJMOD}/../KiCad_Libs/eConnector/eConnector.3dshapes/PJ-102AH.stp"
 			(offset
 				(xyz 0 -13.5 7)
 			)
@@ -26914,7 +26914,7 @@
 			)
 		)
 	)
-	(footprint "7443341000:INDPM8479X720N"
+	(footprint "eCoil:INDPM8479X720N"
 		(layer "F.Cu")
 		(uuid "c45a77fc-9727-4b86-a891-c3e2c302a972")
 		(at 142.5 122.5)
@@ -26943,7 +26943,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "kicad-embed://7443341000.pdf"
+		(property "Datasheet" "${KIPRJMOD}/../KiCad_Libs/eCoil/datasheet/7443341000.pdf"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -27146,7 +27146,7 @@
 			(uuid "07bc3300-c1e0-4616-ba2e-37f3d374cfa7")
 		)
 		(embedded_fonts no)
-		(model "7443341000.stp"
+		(model "${KIPRJMOD}/../KiCad_Libs/eCoil/eCoil.3dshapes/7443341000.stp"
 			(offset
 				(xyz 0 0 0.04999999999)
 			)
@@ -28405,7 +28405,7 @@
 			)
 		)
 	)
-	(footprint "7443341000:INDPM8479X720N"
+	(footprint "eCoil:INDPM8479X720N"
 		(layer "F.Cu")
 		(uuid "d2be4b5b-d86e-4eb7-91c1-5bcd70c7f93b")
 		(at 142.5 104.5 180)
@@ -28434,7 +28434,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "kicad-embed://7443341000.pdf"
+		(property "Datasheet" "${KIPRJMOD}/../KiCad_Libs/eCoil/datasheet/7443341000.pdf"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -28637,7 +28637,7 @@
 			(uuid "9451155e-e106-4d28-b667-4efa83998c45")
 		)
 		(embedded_fonts no)
-		(model "7443341000.stp"
+		(model "${KIPRJMOD}/../KiCad_Libs/eCoil/eCoil.3dshapes/7443341000.stp"
 			(offset
 				(xyz 0 0 0.04999999999)
 			)
@@ -29804,7 +29804,7 @@
 			(uuid "48ad197b-6b2e-4cf5-88e7-20405ef0d932")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/lollo/Desktop/Hardware_Projects/Class-D-Bluetooth-5.0-Stereo-Audio-Amplifier/libs/Kicad_Library/Potentiometers/RK09L1220A1B.stp"
+		(model "${KIPRJMOD}/../KiCad_Libs/eResistor/eResistor.3dshapes/RK09L1220A1B.stp"
 			(offset
 				(xyz -2.5 -2.5 6.5)
 			)
@@ -29816,7 +29816,7 @@
 			)
 		)
 	)
-	(footprint "EEE-FK1H221GV:EEHZT1E561UV"
+	(footprint "eCapacitor:EEHZT1E561UV"
 		(layer "F.Cu")
 		(uuid "d9adc5ae-8531-46e0-b3a7-f2d937957f8b")
 		(at 130.5 124.25 180)
@@ -29845,7 +29845,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "kicad-embed://ABA0000C1181.pdf"
+		(property "Datasheet" "${KIPRJMOD}/../KiCad_Libs/eCapacitor/datasheet/ABA0000C1181.pdf"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -30202,7 +30202,7 @@
 			(uuid "dae034b3-285b-4a96-9432-b611c0c076f6")
 		)
 		(embedded_fonts no)
-		(model "EEE-FK1H221GV.stp"
+		(model "${KIPRJMOD}/../KiCad_Libs/eCapacitor/eCapacitor.3dshapes/EEE-FK1H221GV.stp"
 			(offset
 				(xyz 0 0 0.999999985)
 			)

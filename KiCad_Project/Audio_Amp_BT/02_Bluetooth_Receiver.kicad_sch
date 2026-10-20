@@ -5,7 +5,7 @@
 	(uuid "fe5f5cb9-f393-4ad6-b7aa-e21f49761757")
 	(paper "A4")
 	(lib_symbols
-		(symbol "BM64SPKS1MC2-0002AA:BM64SPKS1MC2-0002AA"
+		(symbol "eRFModule:BM64SPKS1MC2-0002AA"
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
@@ -33,7 +33,7 @@
 					(justify left top)
 				)
 			)
-			(property "Footprint" "BM64SPKS1MC20002AA"
+			(property "Footprint" "eRFModule:BM64SPKS1MC20002AA"
 				(at 34.29 -94.92 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -45,7 +45,7 @@
 					(justify left top)
 				)
 			)
-			(property "Datasheet" "http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en586183"
+			(property "Datasheet" "${KIPRJMOD}/../KiCad_Libs/eRFModule/datasheet/BM62-64-Bluetooth-Stereo-Audio-Module-DS60001403.pdf"
 				(at 34.29 -194.92 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -4040,7 +4040,7 @@
 		)
 	)
 	(symbol
-		(lib_id "BM64SPKS1MC2-0002AA:BM64SPKS1MC2-0002AA")
+		(lib_id "eRFModule:BM64SPKS1MC2-0002AA")
 		(at 123.19 60.96 0)
 		(unit 1)
 		(body_style 1)
@@ -4071,7 +4071,7 @@
 				)
 			)
 		)
-		(property "Footprint" "BM64SPKS1MC20002AA"
+		(property "Footprint" "eRFModule:BM64SPKS1MC20002AA"
 			(at 157.48 155.88 0)
 			(hide yes)
 			(show_name no)
@@ -4083,7 +4083,7 @@
 				(justify left top)
 			)
 		)
-		(property "Datasheet" "kicad-embed://BM62-64-Bluetooth-Stereo-Audio-Module-DS60001403.pdf"
+		(property "Datasheet" "${KIPRJMOD}/../KiCad_Libs/eRFModule/datasheet/BM62-64-Bluetooth-Stereo-Audio-Module-DS60001403.pdf"
 			(at 157.48 255.88 0)
 			(hide yes)
 			(show_name no)

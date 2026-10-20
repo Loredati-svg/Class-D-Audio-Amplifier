@@ -707,7 +707,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "TPA3116D2DAD:TPA3116D2DAD"
+		(symbol "eAmplifier:TPA3116D2DAD"
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
@@ -735,7 +735,7 @@
 					(justify left top)
 				)
 			)
-			(property "Footprint" "SOP65P810X120-32N"
+			(property "Footprint" "eAmplifier:SOP65P810X120-32N"
 				(at 22.606 -41.91 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -747,7 +747,7 @@
 					(justify left top)
 				)
 			)
-			(property "Datasheet" "http://www.ti.com/lit/ds/symlink/tpa3116d2.pdf"
+			(property "Datasheet" "${KIPRJMOD}/../KiCad_Libs/eAmplifier/datasheet/tpa3116d2.pdf"
 				(at 22.86 -45.212 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -4671,7 +4671,7 @@
 				)
 			)
 		)
-		(property "Footprint" "7443341000:INDPM8479X720N"
+		(property "Footprint" "eCoil:INDPM8479X720N"
 			(at 193.04 152.4 0)
 			(hide yes)
 			(show_name no)
@@ -4682,7 +4682,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "kicad-embed://7443341000.pdf"
+		(property "Datasheet" "${KIPRJMOD}/../KiCad_Libs/eCoil/datasheet/7443341000.pdf"
 			(at 193.04 152.4 0)
 			(hide yes)
 			(show_name no)
@@ -5467,7 +5467,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "EEE-FK1H221GV:EEHZT1E561UV"
+		(property "Footprint" "eCapacitor:EEHZT1E561UV"
 			(at 163.83 49.53 0)
 			(hide yes)
 			(show_name no)
@@ -5478,7 +5478,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "kicad-embed://ABA0000C1181.pdf"
+		(property "Datasheet" "${KIPRJMOD}/../KiCad_Libs/eCapacitor/datasheet/ABA0000C1181.pdf"
 			(at 163.83 49.53 0)
 			(hide yes)
 			(show_name no)
@@ -5926,7 +5926,7 @@
 				)
 			)
 		)
-		(property "Footprint" "7443341000:INDPM8479X720N"
+		(property "Footprint" "eCoil:INDPM8479X720N"
 			(at 193.04 104.14 0)
 			(hide yes)
 			(show_name no)
@@ -5937,7 +5937,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "kicad-embed://7443341000.pdf"
+		(property "Datasheet" "${KIPRJMOD}/../KiCad_Libs/eCoil/datasheet/7443341000.pdf"
 			(at 193.04 104.14 0)
 			(hide yes)
 			(show_name no)
@@ -6039,7 +6039,7 @@
 				)
 			)
 		)
-		(property "Footprint" "7443341000:INDPM8479X720N"
+		(property "Footprint" "eCoil:INDPM8479X720N"
 			(at 193.04 44.45 0)
 			(hide yes)
 			(show_name no)
@@ -6050,7 +6050,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "kicad-embed://7443341000.pdf"
+		(property "Datasheet" "${KIPRJMOD}/../KiCad_Libs/eCoil/datasheet/7443341000.pdf"
 			(at 193.04 44.45 0)
 			(hide yes)
 			(show_name no)
@@ -8038,7 +8038,7 @@
 				)
 			)
 		)
-		(property "Footprint" "7443341000:INDPM8479X720N"
+		(property "Footprint" "eCoil:INDPM8479X720N"
 			(at 193.04 92.71 0)
 			(hide yes)
 			(show_name no)
@@ -8049,7 +8049,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "kicad-embed://7443341000.pdf"
+		(property "Datasheet" "${KIPRJMOD}/../KiCad_Libs/eCoil/datasheet/7443341000.pdf"
 			(at 193.04 92.71 0)
 			(hide yes)
 			(show_name no)
@@ -8611,7 +8611,7 @@
 		)
 	)
 	(symbol
-		(lib_id "TPA3116D2DAD:TPA3116D2DAD")
+		(lib_id "eAmplifier:TPA3116D2DAD")
 		(at 93.98 95.25 0)
 		(unit 1)
 		(body_style 1)
@@ -8642,7 +8642,7 @@
 				)
 			)
 		)
-		(property "Footprint" "TPA3116D2DAD:SOP65P810X120-32N"
+		(property "Footprint" "eAmplifier:SOP65P810X120-32N"
 			(at 125.73 190.17 0)
 			(hide yes)
 			(show_name no)
@@ -8654,7 +8654,7 @@
 				(justify left top)
 			)
 		)
-		(property "Datasheet" "kicad-embed://tpa3116d2.pdf"
+		(property "Datasheet" "${KIPRJMOD}/../KiCad_Libs/eAmplifier/datasheet/tpa3116d2.pdf"
 			(at 125.73 290.17 0)
 			(hide yes)
 			(show_name no)
@@ -11144,7 +11144,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "EEE-FK1H221GV:EEHZT1E561UV"
+		(property "Footprint" "eCapacitor:EEHZT1E561UV"
 			(at 162.56 146.05 0)
 			(hide yes)
 			(show_name no)
@@ -11155,7 +11155,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "kicad-embed://ABA0000C1181.pdf"
+		(property "Datasheet" "${KIPRJMOD}/../KiCad_Libs/eCapacitor/datasheet/ABA0000C1181.pdf"
 			(at 162.56 146.05 0)
 			(hide yes)
 			(show_name no)

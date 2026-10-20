@@ -5,7 +5,7 @@
 	(uuid "4bd8c9c6-da64-4b44-b269-40148e69277f")
 	(paper "A4")
 	(lib_symbols
-		(symbol "1729128:1729128"
+		(symbol "eConnector:1729128"
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
@@ -33,7 +33,7 @@
 					(justify left top)
 				)
 			)
-			(property "Footprint" "1729128"
+			(property "Footprint" "eConnector:1729128"
 				(at 16.51 -94.92 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -45,7 +45,7 @@
 					(justify left top)
 				)
 			)
-			(property "Datasheet" "https://www.phoenixcontact.com/en-us/products/printed-circuit-board-terminal-mkdsn-15-2-508-1729128?type=pdf"
+			(property "Datasheet" "${KIPRJMOD}/../KiCad_Libs/eConnector/datasheet/phoenix_contact_1729128_en.pdf"
 				(at 16.51 -194.92 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -179,7 +179,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "PJ-102AH:PJ-102AH"
+		(symbol "eConnector:PJ-102AH"
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
@@ -207,7 +207,7 @@
 					(justify left top)
 				)
 			)
-			(property "Footprint" "PJ-102AH"
+			(property "Footprint" "eConnector:PJ-102AH"
 				(at 16.51 -94.92 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -219,7 +219,7 @@
 					(justify left top)
 				)
 			)
-			(property "Datasheet" "https://www.sameskydevices.com/product/resource/pj-102ah.pdf"
+			(property "Datasheet" "${KIPRJMOD}/../KiCad_Libs/eConnector/datasheet/pj_102ah.pdf"
 				(at 16.51 -194.92 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -371,7 +371,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "TS-103-T-A:TS-103-T-A"
+		(symbol "eConnector:TS-103-T-A"
 			(pin_names
 				(offset 1.016)
 			)
@@ -402,7 +402,7 @@
 					(justify left bottom)
 				)
 			)
-			(property "Footprint" "TS-103-T-A:SAMTEC_TS-103-T-A"
+			(property "Footprint" "eConnector:SAMTEC_TS-103-T-A"
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -926,7 +926,7 @@
 		)
 	)
 	(symbol
-		(lib_id "TS-103-T-A:TS-103-T-A")
+		(lib_id "eConnector:TS-103-T-A")
 		(at 36.83 116.84 180)
 		(unit 1)
 		(body_style 1)
@@ -957,7 +957,7 @@
 				)
 			)
 		)
-		(property "Footprint" "TS_103_T_A:SAMTEC_TS-103-T-A"
+		(property "Footprint" "eConnector:SAMTEC_TS-103-T-A"
 			(at 36.83 116.84 0)
 			(hide yes)
 			(show_name no)
@@ -969,7 +969,7 @@
 				(justify bottom)
 			)
 		)
-		(property "Datasheet" "kicad-embed://td.pdf"
+		(property "Datasheet" "${KIPRJMOD}/../KiCad_Libs/eConnector/datasheet/Samtec_TS-103-T-A.pdf"
 			(at 36.83 116.84 0)
 			(hide yes)
 			(show_name no)
@@ -1124,7 +1124,7 @@
 		)
 	)
 	(symbol
-		(lib_id "1729128:1729128")
+		(lib_id "eConnector:1729128")
 		(at 115.57 96.52 0)
 		(unit 1)
 		(body_style 1)
@@ -1157,7 +1157,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "1729128"
+		(property "Footprint" "eConnector:1729128"
 			(at 132.08 191.44 0)
 			(hide yes)
 			(show_name no)
@@ -1169,7 +1169,7 @@
 				(justify left top)
 			)
 		)
-		(property "Datasheet" "kicad-embed://phoenix_contact_1729128_en.pdf"
+		(property "Datasheet" "${KIPRJMOD}/../KiCad_Libs/eConnector/datasheet/phoenix_contact_1729128_en.pdf"
 			(at 132.08 291.44 0)
 			(hide yes)
 			(show_name no)
@@ -1437,7 +1437,7 @@
 		)
 	)
 	(symbol
-		(lib_id "1729128:1729128")
+		(lib_id "eConnector:1729128")
 		(at 115.57 81.28 0)
 		(unit 1)
 		(body_style 1)
@@ -1470,7 +1470,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "1729128"
+		(property "Footprint" "eConnector:1729128"
 			(at 132.08 176.2 0)
 			(hide yes)
 			(show_name no)
@@ -1482,7 +1482,7 @@
 				(justify left top)
 			)
 		)
-		(property "Datasheet" "kicad-embed://phoenix_contact_1729128_en.pdf"
+		(property "Datasheet" "${KIPRJMOD}/../KiCad_Libs/eConnector/datasheet/phoenix_contact_1729128_en.pdf"
 			(at 132.08 276.2 0)
 			(hide yes)
 			(show_name no)
@@ -1592,7 +1592,7 @@
 		)
 	)
 	(symbol
-		(lib_id "PJ-102AH:PJ-102AH")
+		(lib_id "eConnector:PJ-102AH")
 		(at 29.21 95.25 0)
 		(unit 1)
 		(body_style 1)
@@ -1623,7 +1623,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PJ-102AH"
+		(property "Footprint" "eConnector:PJ-102AH"
 			(at 45.72 190.17 0)
 			(hide yes)
 			(show_name no)
@@ -1635,7 +1635,7 @@
 				(justify left top)
 			)
 		)
-		(property "Datasheet" "https://www.sameskydevices.com/product/resource/pj-102ah.pdf"
+		(property "Datasheet" "${KIPRJMOD}/../KiCad_Libs/eConnector/datasheet/pj_102ah.pdf"
 			(at 45.72 290.17 0)
 			(hide yes)
 			(show_name no)

@@ -12,3 +12,7 @@ fp-info-cache
 
 # Cartella di auto-salvataggio
 auto-save/KiCad_Project/Audio_Amp_v1/.history/
+
+# Link (junction) alla libreria condivisa Kicad_Libs, creato da bring_libs.bat
+KiCad_Libs/
+KiCad_Libs

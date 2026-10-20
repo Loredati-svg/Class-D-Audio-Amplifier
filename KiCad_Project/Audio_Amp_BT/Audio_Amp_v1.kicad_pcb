@@ -284,7 +284,7 @@
 			)
 		)
 	)
-	(footprint "IHLP2525CZER6R8M8A:INDPM6965X300N"
+	(footprint "eCoil:INDPM6965X300N"
 		(layer "F.Cu")
 		(uuid "095b6fbc-bfa1-4f55-8f87-1e76cc0468a4")
 		(at 98.75 85.25 180)
@@ -313,7 +313,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "kicad-embed://ihlp-2525cz-8a.pdf"
+		(property "Datasheet" "${KIPRJMOD}/../KiCad_Libs/eCoil/datasheet/ihlp-2525cz-8a.pdf"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -541,7 +541,7 @@
 			(uuid "c43c5cb9-46f0-4a25-a934-8bf9d6b9a505")
 		)
 		(embedded_fonts no)
-		(model "IHLP2525CZER6R8M8A.stp"
+		(model "${KIPRJMOD}/../KiCad_Libs/eCoil/eCoil.3dshapes/IHLP2525CZER6R8M8A.stp"
 			(offset
 				(xyz -1.499999977 5.300000111 -2.400000059)
 			)
@@ -2509,7 +2509,7 @@
 			)
 		)
 	)
-	(footprint "TPA3116D2DAD:SOP65P810X120-32N"
+	(footprint "eAmplifier:SOP65P810X120-32N"
 		(layer "F.Cu")
 		(uuid "2ceb0c55-f5b9-478e-aedf-12ba72e69e4b")
 		(at 118.5 108.5)
@@ -2538,7 +2538,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "kicad-embed://tpa3116d2.pdf"
+		(property "Datasheet" "${KIPRJMOD}/../KiCad_Libs/eAmplifier/datasheet/tpa3116d2.pdf"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -3091,7 +3091,7 @@
 			(uuid "e312c424-8233-44bc-bc09-28fd03072c18")
 		)
 		(embedded_fonts no)
-		(model "TPA3116D2DAD.stp"
+		(model "${KIPRJMOD}/../KiCad_Libs/eAmplifier/eAmplifier.3dshapes/TPA3116D2DAD.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -4209,7 +4209,7 @@
 			)
 		)
 	)
-	(footprint "7443341000:INDPM8479X720N"
+	(footprint "eCoil:INDPM8479X720N"
 		(layer "F.Cu")
 		(uuid "4870a051-6fd4-4dc0-a382-c13fb26ea15a")
 		(at 136.288 113.625)
@@ -4238,7 +4238,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "kicad-embed://7443341000.pdf"
+		(property "Datasheet" "${KIPRJMOD}/../KiCad_Libs/eCoil/datasheet/7443341000.pdf"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -4402,7 +4402,7 @@
 			(uuid "f61f2964-1e82-4f37-9de4-1ca21e0af273")
 		)
 		(embedded_fonts no)
-		(model "7443341000.stp"
+		(model "${KIPRJMOD}/../KiCad_Libs/eCoil/eCoil.3dshapes/7443341000.stp"
 			(offset
 				(xyz 0 0 0.04999999999)
 			)
@@ -4414,7 +4414,7 @@
 			)
 		)
 	)
-	(footprint "Phoenix-1729128:1729128"
+	(footprint "eConnector:1729128"
 		(layer "F.Cu")
 		(uuid "49c659b3-e5ae-4e0d-a281-937ba84cc41d")
 		(at 157 116.5 -90)
@@ -4443,7 +4443,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "kicad-embed://phoenix_contact_1729128_en.pdf"
+		(property "Datasheet" "${KIPRJMOD}/../KiCad_Libs/eConnector/datasheet/phoenix_contact_1729128_en.pdf"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -4706,7 +4706,7 @@
 			(uuid "f0191ef6-81d0-4be1-a332-fe1321d53a11")
 		)
 		(embedded_fonts no)
-		(model "1729128.stp"
+		(model "${KIPRJMOD}/../KiCad_Libs/eConnector/eConnector.3dshapes/1729128.stp"
 			(offset
 				(xyz -2.609999856 -4.070000111 0)
 			)
@@ -5414,7 +5414,7 @@
 			)
 		)
 	)
-	(footprint "24V-JACK:PJ-102AH"
+	(footprint "eConnector:PJ-102AH"
 		(layer "F.Cu")
 		(uuid "61afd649-459d-4b1a-85de-992c88c91f11")
 		(at 76.515075 98.85 90)
@@ -5443,7 +5443,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.sameskydevices.com/product/resource/pj-102ah.pdf"
+		(property "Datasheet" "${KIPRJMOD}/../KiCad_Libs/eConnector/datasheet/pj_102ah.pdf"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -5667,7 +5667,7 @@
 			(uuid "24af5828-1892-4b3e-91e0-d3443beaef7f")
 		)
 		(embedded_fonts no)
-		(model "PJ-102AH.stp"
+		(model "${KIPRJMOD}/../KiCad_Libs/eConnector/eConnector.3dshapes/PJ-102AH.stp"
 			(offset
 				(xyz 4.159999785 10.64999946 6.269999887)
 			)
@@ -5679,7 +5679,7 @@
 			)
 		)
 	)
-	(footprint "EEE-FK1H221GV:EEHZT1E561UV"
+	(footprint "eCapacitor:EEHZT1E561UV"
 		(layer "F.Cu")
 		(uuid "653150c9-e562-47e0-8f56-048ac12f8912")
 		(at 115.788 121.875 -90)
@@ -5708,7 +5708,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "kicad-embed://ABA0000C1181.pdf"
+		(property "Datasheet" "${KIPRJMOD}/../KiCad_Libs/eCapacitor/datasheet/ABA0000C1181.pdf"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -6026,7 +6026,7 @@
 			(uuid "7b5b10ee-4c9d-4ab9-bfe3-7aa5ff3594a0")
 		)
 		(embedded_fonts no)
-		(model "EEE-FK1H221GV.stp"
+		(model "${KIPRJMOD}/../KiCad_Libs/eCapacitor/eCapacitor.3dshapes/EEE-FK1H221GV.stp"
 			(offset
 				(xyz 0 0 0.999999985)
 			)
@@ -8348,7 +8348,7 @@
 			)
 		)
 	)
-	(footprint "7443341000:INDPM8479X720N"
+	(footprint "eCoil:INDPM8479X720N"
 		(layer "F.Cu")
 		(uuid "9fd99627-aec4-4402-a10d-282c5bd6816b")
 		(at 136.288 122.875)
@@ -8377,7 +8377,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "kicad-embed://7443341000.pdf"
+		(property "Datasheet" "${KIPRJMOD}/../KiCad_Libs/eCoil/datasheet/7443341000.pdf"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -8541,7 +8541,7 @@
 			(uuid "91382f21-d29e-4623-956a-784b7f095a8e")
 		)
 		(embedded_fonts no)
-		(model "7443341000.stp"
+		(model "${KIPRJMOD}/../KiCad_Libs/eCoil/eCoil.3dshapes/7443341000.stp"
 			(offset
 				(xyz 0 0 0.04999999999)
 			)
@@ -8553,7 +8553,7 @@
 			)
 		)
 	)
-	(footprint "EEE-FK1H221GV:EEHZT1E561UV"
+	(footprint "eCapacitor:EEHZT1E561UV"
 		(layer "F.Cu")
 		(uuid "a43dd1e0-1fac-4986-a2ce-3e3fe4d4bc4c")
 		(at 116.988 88.325 -90)
@@ -8582,7 +8582,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "kicad-embed://ABA0000C1181.pdf"
+		(property "Datasheet" "${KIPRJMOD}/../KiCad_Libs/eCapacitor/datasheet/ABA0000C1181.pdf"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -8900,7 +8900,7 @@
 			(uuid "a4ffa38d-942a-4a70-8be0-a3a1c6e13737")
 		)
 		(embedded_fonts no)
-		(model "EEE-FK1H221GV.stp"
+		(model "${KIPRJMOD}/../KiCad_Libs/eCapacitor/eCapacitor.3dshapes/EEE-FK1H221GV.stp"
 			(offset
 				(xyz 0 0 0.999999985)
 			)
@@ -9070,7 +9070,7 @@
 			)
 		)
 	)
-	(footprint "7443341000:INDPM8479X720N"
+	(footprint "eCoil:INDPM8479X720N"
 		(layer "F.Cu")
 		(uuid "a8b81311-93d1-4649-8a62-c6d202e58d42")
 		(at 136.288 104.125 180)
@@ -9099,7 +9099,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "kicad-embed://7443341000.pdf"
+		(property "Datasheet" "${KIPRJMOD}/../KiCad_Libs/eCoil/datasheet/7443341000.pdf"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -9263,7 +9263,7 @@
 			(uuid "d6aaa77d-c662-44e6-a2f2-2c0f917a0b2e")
 		)
 		(embedded_fonts no)
-		(model "7443341000.stp"
+		(model "${KIPRJMOD}/../KiCad_Libs/eCoil/eCoil.3dshapes/7443341000.stp"
 			(offset
 				(xyz 0 0 0.04999999999)
 			)
@@ -9591,7 +9591,7 @@
 			)
 		)
 	)
-	(footprint "7443341000:INDPM8479X720N"
+	(footprint "eCoil:INDPM8479X720N"
 		(layer "F.Cu")
 		(uuid "afd6978c-3768-43ea-83d0-2c794d2b6f71")
 		(at 136.188 94.875)
@@ -9620,7 +9620,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "kicad-embed://7443341000.pdf"
+		(property "Datasheet" "${KIPRJMOD}/../KiCad_Libs/eCoil/datasheet/7443341000.pdf"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -9784,7 +9784,7 @@
 			(uuid "8ed9634e-6ca9-44c1-84d2-e73a0373e531")
 		)
 		(embedded_fonts no)
-		(model "7443341000.stp"
+		(model "${KIPRJMOD}/../KiCad_Libs/eCoil/eCoil.3dshapes/7443341000.stp"
 			(offset
 				(xyz 0 0 0.04999999999)
 			)
@@ -10270,7 +10270,7 @@
 			)
 		)
 	)
-	(footprint "Bluetooth_Module:BM64SPKS1MC20002AA"
+	(footprint "eRFModule:BM64SPKS1MC20002AA"
 		(layer "F.Cu")
 		(uuid "bbad28d3-61ad-4227-911c-86d4833de418")
 		(at 78.1 116.25 90)
@@ -10299,7 +10299,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "kicad-embed://BM62-64-Bluetooth-Stereo-Audio-Module-DS60001403.pdf"
+		(property "Datasheet" "${KIPRJMOD}/../KiCad_Libs/eRFModule/datasheet/BM62-64-Bluetooth-Stereo-Audio-Module-DS60001403.pdf"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -10993,7 +10993,7 @@
 			(uuid "4418a1d0-998f-4474-97d0-5b94e3dfd426")
 		)
 		(embedded_fonts no)
-		(model "BM64SPKS1MC2-0002AA.stp"
+		(model "${KIPRJMOD}/../KiCad_Libs/eRFModule/eRFModule.3dshapes/BM64SPKS1MC2-0002AA.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -11163,7 +11163,7 @@
 			)
 		)
 	)
-	(footprint "Phoenix-1729128:1729128"
+	(footprint "eConnector:1729128"
 		(layer "F.Cu")
 		(uuid "beebd9fa-a255-4862-81b5-a6d08a14aa3b")
 		(at 156.75 97.67 -90)
@@ -11192,7 +11192,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "kicad-embed://phoenix_contact_1729128_en.pdf"
+		(property "Datasheet" "${KIPRJMOD}/../KiCad_Libs/eConnector/datasheet/phoenix_contact_1729128_en.pdf"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -11455,7 +11455,7 @@
 			(uuid "da8501f8-9f04-43cd-8167-d0c954477c82")
 		)
 		(embedded_fonts no)
-		(model "1729128.stp"
+		(model "${KIPRJMOD}/../KiCad_Libs/eConnector/eConnector.3dshapes/1729128.stp"
 			(offset
 				(xyz -2.609999856 -4.070000111 0)
 			)
@@ -12573,7 +12573,7 @@
 			)
 		)
 	)
-	(footprint "LMR33630:SOIC127P600X170-9N"
+	(footprint "eConverterDCDC:SOIC127P600X170-9N"
 		(layer "F.Cu")
 		(uuid "df445fa1-b460-4a94-bbd7-3d99278753ec")
 		(at 98.75 92.865)
@@ -12602,7 +12602,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "http://www.ti.com/lit/gpn/LMR33630"
+		(property "Datasheet" "${KIPRJMOD}/../KiCad_Libs/eConverterDCDC/datasheet/lmr33630.pdf"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -12895,7 +12895,7 @@
 			(uuid "943dce03-6cd1-4c28-937c-b0bc1a9c1d8b")
 		)
 		(embedded_fonts no)
-		(model "LMR33630BDDA.stp"
+		(model "${KIPRJMOD}/../KiCad_Libs/eConverterDCDC/eConverterDCDC.3dshapes/LMR33630BDDA.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -13321,7 +13321,7 @@
 			)
 		)
 	)
-	(footprint "TS_103_T_A:SAMTEC_TS-103-T-A"
+	(footprint "eConnector:SAMTEC_TS-103-T-A"
 		(layer "F.Cu")
 		(uuid "f772c075-8bcd-483c-88e0-084c3e1642d6")
 		(at 100.75 128.25)
@@ -13347,7 +13347,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "kicad-embed://td.pdf"
+		(property "Datasheet" "${KIPRJMOD}/../KiCad_Libs/eConnector/datasheet/Samtec_TS-103-T-A.pdf"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)

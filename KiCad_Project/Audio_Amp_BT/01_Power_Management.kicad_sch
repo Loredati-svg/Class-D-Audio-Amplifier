@@ -472,7 +472,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "IHLP2525CZER6R8M8A:IHLP2525CZER6R8M8A"
+		(symbol "eCoil:IHLP2525CZER6R8M8A"
 			(pin_names
 				(hide yes)
 			)
@@ -503,7 +503,7 @@
 					(justify left top)
 				)
 			)
-			(property "Footprint" "INDPM6965X300N"
+			(property "Footprint" "eCoil:INDPM6965X300N"
 				(at 16.51 -96.19 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -515,7 +515,7 @@
 					(justify left top)
 				)
 			)
-			(property "Datasheet" "http://www.vishay.com/docs/34362/lp25cz8a.pdf"
+			(property "Datasheet" "${KIPRJMOD}/../KiCad_Libs/eCoil/datasheet/ihlp-2525cz-8a.pdf"
 				(at 16.51 -196.19 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -688,7 +688,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "LMR33630BDDA:LMR33630BDDA"
+		(symbol "eConverterDCDC:LMR33630BDDA"
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
@@ -716,7 +716,7 @@
 					(justify left top)
 				)
 			)
-			(property "Footprint" "SOIC127P600X170-9N"
+			(property "Footprint" "eConverterDCDC:SOIC127P600X170-9N"
 				(at 26.67 -94.92 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -728,7 +728,7 @@
 					(justify left top)
 				)
 			)
-			(property "Datasheet" "http://www.ti.com/lit/gpn/LMR33630"
+			(property "Datasheet" "${KIPRJMOD}/../KiCad_Libs/eConverterDCDC/datasheet/lmr33630.pdf"
 				(at 26.67 -194.92 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -2037,7 +2037,7 @@
 		)
 	)
 	(symbol
-		(lib_id "IHLP2525CZER6R8M8A:IHLP2525CZER6R8M8A")
+		(lib_id "eCoil:IHLP2525CZER6R8M8A")
 		(at 139.7 77.47 0)
 		(unit 1)
 		(body_style 1)
@@ -2068,7 +2068,7 @@
 				)
 			)
 		)
-		(property "Footprint" "IHLP2525CZER6R8M8A:INDPM6965X300N"
+		(property "Footprint" "eCoil:INDPM6965X300N"
 			(at 156.21 173.66 0)
 			(hide yes)
 			(show_name no)
@@ -2080,7 +2080,7 @@
 				(justify left top)
 			)
 		)
-		(property "Datasheet" "kicad-embed://ihlp-2525cz-8a.pdf"
+		(property "Datasheet" "${KIPRJMOD}/../KiCad_Libs/eCoil/datasheet/ihlp-2525cz-8a.pdf"
 			(at 156.21 273.66 0)
 			(hide yes)
 			(show_name no)
@@ -3210,7 +3210,7 @@
 		)
 	)
 	(symbol
-		(lib_id "LMR33630BDDA:LMR33630BDDA")
+		(lib_id "eConverterDCDC:LMR33630BDDA")
 		(at 95.25 76.2 0)
 		(unit 1)
 		(body_style 1)
@@ -3241,7 +3241,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SOIC127P600X170-9N"
+		(property "Footprint" "eConverterDCDC:SOIC127P600X170-9N"
 			(at 121.92 171.12 0)
 			(hide yes)
 			(show_name no)
@@ -3253,7 +3253,7 @@
 				(justify left top)
 			)
 		)
-		(property "Datasheet" "http://www.ti.com/lit/gpn/LMR33630"
+		(property "Datasheet" "${KIPRJMOD}/../KiCad_Libs/eConverterDCDC/datasheet/lmr33630.pdf"
 			(at 121.92 271.12 0)
 			(hide yes)
 			(show_name no)
