@@ -26,6 +26,29 @@ Plug a phone or a PC into the USB-C port: the board shows up as a standard USB s
 
 ---
 
+## Libraries
+
+This project uses the shared KiCad libraries from L2-Hardware.
+
+1. Clone the library repository **in the same parent folder as your project folders**, so that it sits next to them:
+
+```bash
+   git clone https://github.com/L2-Hardware/Kicad_Libs
+```
+
+   Expected folder structure:
+
+```
+   Kicad/
+   ├── Kicad_Libs/
+   ├── Project1/
+   └── Project2/
+   └── etc...
+```
+---
+
+2. Inside the project folder, run the `bring_libs.bat` script to import the libraries into the project.
+
 ## 📋 Table of Contents
 - [Technical Specifications](#-technical-specifications)
 - [Signal Chain](#-signal-chain)
